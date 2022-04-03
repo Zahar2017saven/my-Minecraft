@@ -1,5 +1,909 @@
 # my-Minecraft
 #index.html
-<head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><!--metatextblock--><title>Minecraft</title><meta property="og:url" content="http://minecraft.org.tilda.ws"><meta property="og:title" content="Minecraft"><meta property="og:description" content=""><meta property="og:type" content="website"><meta property="og:image" content="https://static.tildacdn.info/tild3834-3934-4234-b061-623430616539/-/resize/504x/_.jpg"><link rel="canonical" href="http://minecraft.org.tilda.ws"><!--/metatextblock--><meta property="fb:app_id" content="257953674358265"><meta name="format-detection" content="telephone=no"><meta http-equiv="x-dns-prefetch-control" content="on"><link rel="dns-prefetch" href="https://ws.tildacdn.com"><link rel="dns-prefetch" href="https://static.tildacdn.info"><meta name="robots" content="nofollow"><link rel="shortcut icon" href="https://static.tildacdn.info/img/tildafavicon.ico" type="image/x-icon"><!-- Assets --><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-grid-3.0.min.css" type="text/css" media="all"><link rel="stylesheet" href="/tilda-blocks-2.14.css?t=1637942305" type="text/css" media="all"><link rel="preconnect" href="https://fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&amp;subset=latin,cyrillic" rel="stylesheet"><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-animation-1.0.min.css" type="text/css" media="all"><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-menusub-1.0.min.css" type="text/css" media="all" onload="this.media='all';"><noscript><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-menusub-1.0.min.css" type="text/css" media="all" /></noscript><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-cover-1.0.min.css" type="text/css" media="all"><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-slds-1.4.min.css" type="text/css" media="all" onload="this.media='all';"><noscript><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-slds-1.4.min.css" type="text/css" media="all" /></noscript><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-zoom-2.0.min.css" type="text/css" media="all" onload="this.media='all';"><noscript><link rel="stylesheet" href="https://static.tildacdn.info/css/tilda-zoom-2.0.min.css" type="text/css" media="all" /></noscript><script type="text/javascript" async="" id="tildastatscript" src="https://static.tildacdn.info/js/tilda-stat-1.0.min.js"></script><script src="https://static.tildacdn.info/js/jquery-1.10.2.min.js"></script><script src="https://static.tildacdn.info/js/tilda-scripts-3.0.min.js"></script><script src="/tilda-blocks-2.7.js?t=1637942305"></script><script src="https://static.tildacdn.info/js/lazyload-1.3.min.js" charset="utf-8" async=""></script><script src="https://static.tildacdn.info/js/tilda-animation-1.0.min.js" charset="utf-8" async=""></script><script src="https://static.tildacdn.info/js/tilda-cover-1.0.min.js" charset="utf-8" async=""></script><script src="https://static.tildacdn.info/js/tilda-events-1.0.min.js" charset="utf-8" async=""></script><script src="https://static.tildacdn.info/js/tilda-menusub-1.0.min.js" charset="utf-8" async=""></script><script src="https://static.tildacdn.info/js/tilda-slds-1.4.min.js" charset="utf-8" async=""></script><script src="https://static.tildacdn.info/js/hammer.min.js" charset="utf-8" async=""></script><script src="https://static.tildacdn.info/js/tilda-zoom-2.0.min.js" charset="utf-8" async=""></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];</script><script type="text/javascript">if((/bot|google|yandex|baidu|bing|msn|duckduckbot|teoma|slurp|crawler|spider|robot|crawling|facebook/i.test(navigator.userAgent))===false && typeof(sessionStorage)!='undefined' && sessionStorage.getItem('visited')!=='y'){	var style=document.createElement('style');	style.type='text/css';	style.innerHTML='@media screen and (min-width: 980px) {.t-records {opacity: 0;}.t-records_animated {-webkit-transition: opacity ease-in-out .2s;-moz-transition: opacity ease-in-out .2s;-o-transition: opacity ease-in-out .2s;transition: opacity ease-in-out .2s;}.t-records.t-records_visible {opacity: 1;}}';	document.getElementsByTagName('head')[0].appendChild(style);	$(document).ready(function() {	$('.t-records').addClass('t-records_animated');	setTimeout(function(){ $('.t-records').addClass('t-records_visible'); sessionStorage.setItem('visited','y');	},400);	});
-}</script><style type="text/css">@media screen and (min-width: 980px) {.t-records {opacity: 0;}.t-records_animated {-webkit-transition: opacity ease-in-out .2s;-moz-transition: opacity ease-in-out .2s;-o-transition: opacity ease-in-out .2s;transition: opacity ease-in-out .2s;}.t-records.t-records_visible {opacity: 1;}}</style><style type="text/css">:root img[style*="//counter.yadro.ru/"], :root img[src*="://c.bigmir.net/"], :root a[href^="http://hitcounter.ru/top/stat.php"], :root a[href^="http://click.hotlog.ru/"], :root a[href*="//top.mail.ru/jump?"], :root [title="uWeb Counter"], :root [title="uCoz Counter"], :root .min-width-normal > #popup_container ~ #fade, :root .min-width-normal > #popup_container, :root body > div[class^="_"][class*=" _"][class$="_stBig"], :root body > div[id^="dV"][style^="width"][style*="height"][style*="position"][style*="fixed"][style*="overflow"][style*="z-index"][style*="background"], :root #root > .app .adfox, :root object[data^="blob"], :root img[width="468"][height="60"], :root img[width="160"][height="600"], :root img[src*="://cp.beget.com/promo_data/"], :root iframe[src*="zhitomir.info/price"], :root iframe[src*="trafic-media.ru"], :root iframe[src*="hd.gg33.top/"], :root iframe[src*="ads.exosrv.com"], :root iframe[src*="://vidroll.ru/"], :root iframe[src*="://partner-widget.vsesdal.com/"], :root iframe[src*="://mark-media.com.ua"], :root iframe[src*="://ab.adpro.com.ua/"], :root iframe[src*="/mixadv_"], :root iframe[src*="/carta.ua/ajax/widget."], :root iframe[src*="/3647.tech"], :root iframe[id^="republer"], :root div[id^="yandex_rtb"], :root div[id^="tizerws_"], :root div[id^="smi2adblock_"], :root div[id^="news_nest_net_ru"], :root div[id^="news_nest_msk_ru"], :root div[id^="news_2xclick_ru_"], :root div[id^="join_informer_"], :root div[id^="itizergroup_"], :root div[id^="gnezdo_ru_"], :root div[id^="cpa_rotator_block"], :root div[id^="beroll_rotator"], :root div[id^="b_tz_"], :root div[id^="DIV_DA_"], :root div[id^="Crt-"][style], :root div[id*="Teaser_Block"], :root div[data-server-rendered="true"] > div[id^="la-"], :root div[class^="da-ya-widget"], :root div[class^="cnt32_"][id^="cnt_rb_"], :root div[class^="bidvol-widget-"], :root div[class*="td-a-rec-id-"], :root a[onclick*="trtkp.ru"], :root a[onclick*="offergate-amigo"], :root iframe[src*="litres.ru/static/widgets"], :root a[href^="https://www.juicer.io?referrer="], :root a[href^="https://msetup.pro"], :root a[href^="https://kshop"][href*=".pro/"], :root a[href^="http://trafmaster.com"], :root a[href^="http://traderstart.mirtesen.ru"], :root a[href^="http://luckiestclick.com/goto."], :root a[href^="http://kshop.biz/"], :root a[href^="http://browserload.info/"], :root a[href="http://advert.mirtesen.ru/"], :root a[href*="zdravo-med.ru"], :root a[href*="xxxrevpushclcdu.com"], :root a[href*="webdiana.ru/click"], :root a[href*="tvks.ru"], :root a[href*="trklp.ru"], :root a[href*="traflabs.xyz"], :root div[id^="CGCandy"], :root a[href*="tptrk.ru"], :root a[href*="top-info24.ru"], :root a[href*="shakespoint.com"], :root a[href*="shakesclick.com"], :root a[href*="shakescash.com"], :root a[href*="shakes.pro"], :root a[href*="sapmedia.ru"], :root a[href*="sandratand.ru"], :root a[href*="refpazus.top"], :root a[href*="problogrus.ru"], :root a[href^="https://homyanus.com"], :root a[href*="please-direct.me"], :root a[href*="please-direct.com"], :root a[href*="sviruniversal.com/"], :root a[href*="octoclick.net"], :root a[href*="marketgid.com/"], :root a[href*="m1cpl.ru"], :root a[href*="litewebbusiness.com"], :root a[href*="navaxudoru.com"], :root a[href*="lifebloggersz.ru"], :root a[href*="kshop2.biz"], :root a[href*="intovarro.ru"], :root body > div[style="position: fixed; z-index: 999999; width: 400px; height: 308px; left: 5px; bottom: 5px;"], :root a[href*="info-blog24.ru"], :root a[href*="https://relap.io/r?"], :root a[href*="herrabjec.pro"], :root a[href*="gpclick.ru"], :root a[href*="goodtrack.ru"], :root a[href*="gocdn.ru"], :root a[href*="go.ad2up.com"], :root a[href*="ftpglst.com"], :root a[href*="flylinks.pw"], :root a[href*="filebase.me"], :root a[href*="cpl11.ru"], :root a[href*="cpl1.ru"], :root a[href*="cmsmodnews.com"], :root a[href*="blogers-story.ru"], :root a[href*="shakesin.com"], :root a[href*="bgrndi.com"], :root a[href*="beststbuy.ru"], :root a[href*="best-zdorovye.ru"], :root a[href*="beauty-list.ru"], :root a[href*="medinforms.ru"], :root a[href*="awesomeredirector"], :root a[href*="amigo-biz.ru/ads/click"], :root a[href*="amgfile.ru"], :root a[href*="ads2-adnow.com"], :root a[href*="slovosil.com"], :root a[href*="ads-provider.com"], :root a[href*="://ya-cdn.ru/r/"], :root a[href*="://vsesdal.com/promo/"], :root a[href*="://vse-sdal.com/promo/"], :root a[href*="://ufiler-download.ru/"], :root a[href*="://torrent-repa.site/"], :root a[href*="://sugisatomi.com/"], :root a[href*="://softperehod.ru/"], :root a[href*="://softmediya.ru/"], :root a[href*="://segodnia.club/"], :root div[class^="yandex_rtb"], :root a[href*="://searchlnk.ru/r/"], :root a[href*="://ruonline.bar/"], :root a[href*="://rotationlinks.ru/"], :root a[href^="http://eaplay.ru/"], :root a[href*="://riaccaw.com/"], :root a[href*="://rendersaveron.com"], :root a[href*="://renderbrandium.com"], :root a[href*="://parandaya.com"], :root a[href*="://ourbrowser.net"], :root a[href*="best-zdrav.ru"], :root a[href*="://newbrowserme.ru/"], :root a[href*="://new.torrent-pack.ru/"], :root a[href*="trafgid.xyz"], :root a[href*="://getyousoft.ru/"], :root a[href*="://getyoursoft.ru/"], :root a[href*="://getbrauzer.ru/"], :root a[href*="://filetaker.ru/"], :root a[href*="torrentum.ru"], :root a[href*="://filesmytop.ru/"], :root a[href*="://doxod24.online/"], :root a[href*="://clickstats.online/"], :root a[href*="://techdmn.com/"], :root a[href*="://clickstats.fun/"], :root a[href*="://clickrpk.com/"], :root a[href*="://clickbytes.ru/"], :root a[href*="://click2soft.ru/"], :root a[href*="://chikidiki.ru"], :root a[href*="://betahit.click/"], :root a[href*="://adv-views.com"], :root a[href*="24smi.ws/top/"], :root a[href*="24smi.site/top/"], :root div[id^="adpartner-jsunit-"], :root a[href*="/yfiles1.ru"], :root a[href*="/vkout.ru"], :root a[href*="/universalsrc.com/"], :root a[href^="http://fly-shops.ru"], :root a[href*="/universal-lnk.net/"], :root a[href*="://vpnbrowser.ru/"], :root a[href*="/uni-lnk.com/"], :root a[href*="/uloads.ru/"], :root a[href*="/u-loads.ru/"], :root a[href*="/u-load.ru/"], :root a[href*="/sb/clk/"], :root a[href*="/ribnadzo.ru"], :root a[href*="/rapidtor.site"], :root a[href*="/onvix.tv/promo/"][target=_blank], :root a[href*="realgoodies.ru"], :root a[href*="/onvix.me/promo/"][target=_blank], :root a[href*="/newbrowser.club/"], :root a[href*="/myuniversalnk.com/"], :root a[href*="/go.1k3.net/"], :root iframe[src*="marketgid.com"], :root a[href*="/getdriverpack.ru"], :root a[href*="/fastvk.com"], :root a[href*="/api/redirect?offerid="], :root iframe[src*="laim.tv/rotator/"], :root a[href*="/advertisesimple.info"], :root a[href*="//viruniversal.com/"], :root a[href*="//utimg.ru/"], :root a[href*="//universalut.info/"], :root a[href*="//universalse.info/"], :root a[href*="//universalies.info/"], :root a[href*="//universalice.info/"], :root a[href*="//ubar.pro"], :root a[href*="//ubar-pro"], :root a[href*="//tiruniversal.com/"], :root div[data-id^="div-gpt-ad-"], :root a[href*="//tekaners.com/"], :root a[href*="//sub"][href*="bubblesmedia.ru"], :root a[href*="//spishi.vip/"], :root a[href*="//reruniversal.com/"], :root a[href*="//refpaewsbc.top/"], :root a[href*="//parandeya.com/"], :root a[href*="//loderlx.ru"], :root a[href*="//lis-gor.com/"], :root a[href*="//go.webredir.net/r/"], :root a[href*="//getmybrowser.ru/"], :root a[href*="trtkp.ru"], :root a[href*="//fofuvipibo.com/"], :root a[href*="//febrare.ru/"], :root a[href*="//do-rod.com/"], :root a[href*="//avertise.ru/"], :root a[href*="//adretarget.net/"], :root a[href*=".twkv.ru"], :root a[href*=".pokupkins.ru"], :root a[href*=".braun634.com/"], :root .app.blog-post-page #blog-post-item-video-ad, :root a[href*=".1liveinternet.ru"], :root a[href*="katuhus.com"], :root a[data-href*="recreativ.ru"], :root [src^="//am15.net/?"], :root [src*="mixadvert.com"], :root [onclick*="trklp.ru"], :root a[href*="://tatarkoresh.ru"], :root [onclick*="traffic-media.co"], :root [onclick*="mixadvert.com"], :root [onclick*="/sb/clk/"], :root [onclick*=".twkv.ru"], :root [id^="unit_"] > a[href*="://vrf.ru"], :root #root > .app > .sticky-button, :root [href^="https://download.cdn.yandex.net/yandex-tag/weboffer/"], :root [href*="pigiuqproxy.com"], :root a[href*="cpagetti1.com"], :root a[href*="://search-cdn.ru/r/"], :root [href*="driverpack.io/"], :root [href*="driftawayforfun.com"], :root .flex-promo-series > .left-col > :not(#players):not(.serial-series-info), :root [href*="://larchfury.com/"], :root [href*="://clickpzk.com/"], :root [href*="://click.1k3web.net/"], :root [href*="://click.1k3web.com/"], :root [href*="://click.1k3pub.com/"], :root [href*="://browseit.ru/"], :root [href*="/zfvklk.ru"], :root [href*="/vaigowoa.com"], :root [href*="//loadbrowser.ru/"], :root a[href*="kinnohoyutd.site"], :root [href*=".drp.su/"], :root [data-url*="://installpack.net"], :root [data-link*="amigo-browser.ru/dkit-"], :root [data-la-show-block-id], :root a[href*="//baldervain.com/"], :root [data-la-refresh-timeout], :root div[id^="zcbclk"], :root [data-la-custom-block], :root [data-la-block], :root [class^="flat_"][class*="_out"], :root a[href*="netcrys.com"], :root [class^="flat_"][class*="_crss"], :root .mywidget__col > .mywidget__link_advert, :root [data-link*="/sb/clk/"], :root .header-banner > #moneyback[target="_blank"], :root [id^="unit_"] > a[href*="://smi2.ru"], :root .base-page_left-side > #left_ban, :root .base-page_center > .banerTopOver, :root .base-page_center > .banerTop, :root #adv_unisound ~ #ad_module_cont > [id^="ad_module"], :root a[href*="/get-torrent.ru"], :root #adv_kod_frame ~ #gotimer, :root div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "], :root div[id^="trafmag_"], :root adblock-modal-component, :root adblock-detect, :root [class][data-sitename][data-header-version] > div[id^="detection-block"], :root topadblock, :root span[id^="ezoic-pub-ad-placeholder-"], :root #adv_unisound ~ #main > #slidercontentContainer, :root mq-programmatic-ad, :root div[id^="zergnet-widget"], :root div[id^="traffective-ad-"], :root div[id^="taboola-stream-"], :root div[id^="sticky_ad_"], :root div[id^="rc-widget-"], :root div[id^="proadszone-"], :root a[href*="land-gooods.ru"], :root div[id^="lazyad-"], :root div[id^="js-dfp-"], :root div[id^="gtm-ad-"], :root div[id^="google_dfp_"], :root div[id^="ezoic-pub-ad-"], :root div[id^="div-adtech-ad-"], :root div[id^="dfp-slot-"], :root div[id^="dfp-ad-"], :root div[id^="code_ads_"], :root a[href*="media-rotate.com"], :root div[id^="banner-ad-"], :root div[id^="advt-"], :root div[id^="advads_"], :root #root > .app .adfox-top, :root a[href*="joycasino.com/?partner="], :root a[href*="idealmedia.io"], :root div[id^="advads-"], :root #root > .app .brand-widget__right-cl, :root div[id^="adspot-"], :root a[href*="trk-1.com"], :root div[id^="adrotate_widgets-"], :root div[id^="adngin-"], :root a[href*="://bestnewsoft.ru/"], :root div[id^="adfox_"], :root div[id^="ad_script_"], :root a[href*="/rating/"] > img[width="88"][height="31"], :root div[id^="ad_rect_"], :root #root > .app > #layout > #very-right-column > .aggregator > .aggregator__items, :root div[id^="ad_position_"], :root div[id^="ad-server-"], :root div[id^="ad-inserter-"], :root a[href*="//gerocenius.com/"], :root div[id^="ad-cid-"], :root a[href*="://telamon"][href*="/tracker/?partner="], :root div[data-test-id="AdDisplayWrapper"], :root div[data-subscript="Advertising"], :root div[data-spotim-slot], :root div[data-role="sidebarAd"], :root div[data-native_ad], :root div[data-mediatype="advertising"], :root div[data-insertion], :root div[data-id-advertdfpconf], :root div[data-dfp-id], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-content="Advertisement"], :root div[data-adunit], :root div[data-adunit-path], :root div[data-before-content="advertisement"], :root div[data-adservice-param-tagid="contentad"], :root div[data-adname], :root div[data-ad-wrapper], :root a[href*="://r.advmusic.com/"], :root a[href*="/clubleads.ru"], :root div[data-ad-underplayer], :root div[data-ad-placeholder], :root div[class^="sp-adslot-"], :root div[class^="s-dfp-"], :root div[class^="proadszone-"], :root div[class^="pane-google-admanager-"], :root div[class^="native-ad-"], :root div[class^="lifeOnwerAd"], :root div[class^="largeRectangleAd_"], :root a[href*="://offergate-apps-phkr.com/"], :root div[class^="kiwiad-popup"], :root div[class^="kiwiad-desktop"], :root div[class^="index_adBeforeContent_"], :root a[href*="tvroff.net"], :root div[class^="index_adAfterContent_"], :root img[title="bigmir)net TOP 100"], :root div[class^="index__adWrapper"], :root div[class^="block-openx-"], :root div[class^="backfill-taboola-home-slot-"], :root div[class^="articleAdUnitMPU_"], :root a[href*="//adoffer.pro/"], :root div[class^="advertisement-desktop"], :root a[href*="//partners.house/"], :root div[class^="adunit_"], :root div[class^="adsbutt_wrapper_"], :root a[href*="linkmyc.com"], :root div[class^="ads-partner-"], :root div[class^="adpubs-"], :root div[class^="adbanner_"], :root img[width="728"][height="90"], :root div[class^="AdItem-"], :root div[class^="ad_border_"], :root a[href^="https://deliver.tf2www.com/"], :root div[class^="adUnit_"], :root a[href*="//universalie.info/"], :root a[href^="http://cwcams.com/landing/click/"], :root a[href^="http://ads.betfair.com/redirect.aspx?"], :root div[class^="StickyHeroAdWrapper-"], :root div[id^="republer_"], :root div[class^="Directory__footerAds"], :root div[class^="Component-dfp-"], :root div[class^="AdhesionAd_"], :root div[class^="Ad__bigBox"], :root div[class^="ad_position_"], :root a[href^="https://go.ebrokerserve.com/"], :root a[href^="http://axdsz.pro/"], :root div[aria-label="Ads"], :root a[href^="http://lp.ezdownloadpro.info/"], :root a[href^="http://uploaded.net/ref/"], :root aside[id^="advads_ad_widget-"], :root aside[id^="adrotate_widgets-"], :root a[href^="https://ad.doubleclick.net/"], :root app-advertisement, :root amp-ad-custom, :root [data-ad-width], :root [id*="MGWrap"], :root ad-desktop-sidebar, :root iframe[src*="fwdcdn.com/frame/partners/"], :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root div[id^="div-ads-"], :root a[href^="http://at.atwola.com/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href*="films.ws"], :root [data-la-block-show-id], :root a[href^="https://www.vfreecams.com/in/?track="], :root a[href^="https://www.share-online.biz/affiliate/"], :root a[href^="https://www.securegfm.com/"], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root DFP-AD, :root a[href^="//porngames.adult/?SID="], :root a[href^="https://www.oneclickroot.com/?tap_a="] > img, :root a[href^="https://www.oboom.com/ad/"], :root a[href^="https://www.nudeidols.com/cams/"], :root a[href^="https://www.mypornstarcams.com/landing/click/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href*="://tele.gg/"], :root div[data-adzone], :root a[href^="https://www.iyalc.com/"], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href*="/mosday.ru/ad/"], :root a[href^="https://www.gambling-affiliation.com/cpc/"], :root a[href^="http://webgirlz.online/landing/"], :root a[href^="https://www.g4mz.com/"], :root a[href*="//refpabjgth.top/"], :root [href^="http://advertisesimple.info/"], :root a[href^="https://www.friendlyduck.com/AF_"], :root a[href^="https://www.dollps.com/?track="], :root a[href^="https://www.clicktraceclick.com/"], :root a[href^="https://www.camsoda.com/enter.php?id="], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="https://www.bebi.com"], :root a[href*="mixadvert.com"], :root a[href*="/ogclick.com/api/redirect"], :root .card-captioned.crd > .crd--cnt > .s2nPlayer, :root a[href^="https://www.arthrozene.com/"][href*="?tid="], :root a[href^="https://www.adskeeper.co.uk/"], :root a[href^="https://t.grtyi.com/"], :root a[href^="https://wittered-mainging.com/"], :root a[href^="http://farm.plista.com/pets"], :root a[href^="https://windscribe.com/promo/"], :root a[href^="http://k2s.cc/code/"], :root a[href^="https://webroutetrk.com/"], :root div[id^="admixer_"], :root [href^="/ucdownload.php"], :root a[href^="https://wantopticalfreelance.com/"], :root a[href*="//1xbetlk.site/"], :root amp-embed[type="taboola"], :root a[href^="http://c43a3cd8f99413891.com/"], :root a[href^="https://trust.zone/go/r.php?RID="], :root div[data-ad-targeting], :root a[href^="https://trk.moviesflix4k.xyz/"], :root a[href^="https://trf.bannerator.com/"], :root a[href*="kodielinktrust.ru"], :root a[href*="//universalin.info/"], :root a[href^="https://bestcond1tions.com/"], :root a[href^="http://go.247traffic.com/"], :root a[href^="https://trappist-1d.com/"], :root a[onclick*="/link-fes.ru"], :root a[href^="http://anonymous-net.com/"], :root a[href^="https://transfer.xe.com/signup/track/redirect?"], :root a[href^="https://vo2.qrlsx.com/"], :root a[href^="https://tracking.truthfinder.com/?a="], :root .base-page_center > .banerBottom, :root a[href^="https://tracking.gitads.io/"], :root a[href^="https://go.xxxjmp.com/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="http://reals-story.ru/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.interactivegf.com/"], :root a[href^="https://vlnk.me/"], :root a[href*="/myuniversalnk.net/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href^="https://track.healthtrader.com/"], :root a[href*="muz-loader.site"], :root a[href*="clickscloud.net"], :root a[href^="http://greensmoke.com/"], :root a[href^="https://track.effiliation.com/servlet/effi.click?"] > img, :root a[href^="https://track.clickmoi.xyz/"], :root a[href^="https://track.afcpatrk.com/"], :root div[class^="da-widget-"], :root a[href^="https://control.trafficfabrik.com/"], :root a[href^="https://track.52zxzh.com/"], :root a[href*="//historategory.com/"], :root #BlWrapper > .b-temp_rbc, :root a[href^="https://axdsz.pro/"], :root a[href^="https://tour.mrskin.com/"], :root a[href^="http://www.greenmangaming.com/?tap_a="], :root a[href^="https://tm-offers.gamingadult.com/"], :root a[href^="https://t.hrtyj.com/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://squren.com/rotator/?atomid="], :root [class^="flat_"][class*="_modal"], :root div[id^="ad-div-"], :root a[href^="https://secure.eveonline.com/ft/?aid="], :root div[class^="Display_displayAd"], :root [href^="https://mypillow.com/"] > img, :root a[href^="https://www.sheetmusicplus.com/?aff_id="], :root div[class^="pane-adsense-managed-"], :root a[href^="https://www.bang.com/?aff="], :root a[href*="/afftraf.co/"], :root a[href^="https://secure.bstlnk.com/"], :root a[href*="homework.ru/?partnerId="], :root div[class^="index_displayAd_"], :root a[href^="http://adultgames.xxx/"], :root a[href^="http://semi-cod.com/clicks/"], :root a[href^="https://s.zlink2.com/"], :root div[class^="kiwi-ad-wrapper"], :root a[href^="https://rev.adsession.com/"], :root [href*="://drp.su/"], :root a[href^="https://refpasrasw.world/"], :root div[data-google-query-id], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root a[href^="https://refpaexhil.top/"], :root a[href*="/sarimsolus.com/"], :root a[href^="https://reachtrgt.com/"], :root img[src*="://r.i.ua/"], :root div[id^="yandex_ad"], :root a[href^="https://www.hotgirls4fuck.com/"], :root a[href^="https://www.pornhat.com/"][rel="nofollow"], :root AD-SLOT, :root a[href^="https://pubads.g.doubleclick.net/"], :root div[id^="ads_games_"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="http://www.my-dirty-hobby.com/?sub="], :root a[href^="https://porndeals.com/?track="], :root a[href^="https://pcm.bannerator.com/"], :root a[href^="https://offerforge.net/"], :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://myusenet.xyz/"], :root a[href^="https://my-movie.club/"], :root a[href*="bestforexplmdb.com"], :root a[href^="https://msecure117.com/"], :root [href^="https://detachedbates.com/"], :root a[href^="https://mk-cdn.net/"], :root a[href^="https://mk-ads.com/"], :root a[href^="https://meet-sex-here.com/?u="], :root a[href*="/amigo-browser.ru"][target="_blank"], :root a[href^="https://medleyads.com/"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root iframe[src^="https://tpc.googlesyndication.com/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://landing1.brazzersnetwork.com"], :root a[href^="http://adrunnr.com/"], :root a[href^="https://landing.brazzersplus.com/"], :root a[href^="https://land.rk.com/landing/"], :root a[href^="http://ad.au.doubleclick.net/"], :root a[href^="https://k2s.cc/pr/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="http://www.uniblue.com/cm/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://trusted-click-host.com/"], :root a[href^="https://members.linkifier.com/public/affiliateLanding?refCode="], :root a[href^="https://jmp.awempire.com/"], :root [href^="http://join.shemalepornstar.com/"], :root [id^="ad_sky"], :root a[href^="https://incisivetrk.cvtr.io/click?"], :root a[href^="https://iactrivago.ampxdirect.com/"], :root a[href*="://dmtech05.com/"], :root a[href^="https://iac.ampxdirect.com/"], :root a[href^="https://horny-pussies.com/tds"], :root a[href^="https://graizoah.com/"], :root a[href^="https://goraps.com/"], :root a[href^="http://feedads.g.doubleclick.net/"], :root a[href^="https://redsittalvetoft.pro/"], :root a[href^="https://googleads.g.doubleclick.net/pcs/click"], :root a[href^="//thaudray.com/"], :root a[href^="http://cdn.adstract.com/"], :root a[href^="https://gogoman.me/"], :root a[href^="https://go.xtbaffiliates.com/"], :root a[href^="https://torrentsafeguard.com/?aid="], :root [href^="https://v.investologic.co.uk/"], :root a[href^="https://offers.refchamp.com/"], :root a[href^="https://go.trkclick2.com/"], :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="http://vo2.qrlsx.com/"], :root a[href^="https://pl.premium4kflix.website/"], :root a[href^="https://go.julrdr.com/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href*="://lapina.best/"], :root a[href^="https://go.hpyjmp.com/"], :root a[href*="//restofarian.com"], :root a[href^="https://go.goasrv.com/"], :root a[href^="https://adnetwrk.com/"], :root a[href^="https://go.gldrdr.com/"], :root a[href^="https://fleshlight.sjv.io/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.currency.com/"], :root [id^="newPortal_informer_"], :root a[href^="https://track.afftck.com/"], :root a[href^="http://guideways.info/"], :root a[href^="https://go.cmrdr.com/"], :root [href^="http://www.pingperfect.com/aff.php"], :root a[href^="http://www.easydownloadnow.com/"], :root a[href^="https://go.alxbgo.com/"], :root a[href^="https://go.admjmp.com/"], :root a[href^="https://go.ad2up.com/"], :root a[href^="https://giftsale.co.uk/?utm_"], :root a[href^="http://www.terraclicks.com/"], :root a[href^="https://gghf.mobi/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://fonts.fontplace9.com/"], :root a[href*="://yadistr.ru/"], :root a[href^="http://clkmon.com/adServe/"], :root a[href^="https://flirtaescopa.com/"], :root bottomadblock, :root #root > .app > #layout > #very-right-column .aggregator__header, :root a[href^="https://fertilitycommand.com/"], :root a[href^="https://fakelay.com/"], :root a[href^="https://earandmarketing.com/"], :root [lazy-ad="leftthin_banner"], :root a[href^="https://dynamicadx.com/"], :root a[href*="24smi.one/top/"], :root div[id^="div-gpt-"], :root a[href^="https://dooloust.net/"], :root a[href*="offhealth.ru"], :root a[href*="://landingtracker.com/"], :root a[href^="https://www.what-sexdating.com/"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="//srv.buysellads.com/"], :root a[href^="https://dianches-inchor.com/"], :root a[href*="blogi-novosti.ru"], :root a[href^="http://adf.ly/?id="], :root a[href^="https://uncensored3d.com/"], :root a[href^="https://creacdn.top-convert.com/"], :root a[href^="https://www.chngtrack.com/"], :root iframe[src^="https://pagead2.googlesyndication.com/"], :root a[href^="https://retiremely.com/"], :root a[href^="https://cpmspace.com/"], :root a[href^="https://cpartner.bdswiss.com/"], :root [onclick*="content.ad/"], :root a[href^="https://clixtrac.com/"], :root a[href^="https://clicks.pipaffiliates.com/"], :root .commercial-unit-mobile-top > .v7hl4d, :root a[href^="https://click.plista.com/pets"], :root a[href^="https://claring-loccelkin.com/"], :root a[href*="twtn.ru/"], :root a[href^="https://chaturbate.xyz/"], :root iframe[src*="//refpakglscpj."], :root a[href^="http://olivka.biz/"], :root [data-ad-cls], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root a[href^="https://chaturbate.com/in/?track="], :root a[href^="https://chaturbate.com/in/?tour="], :root a[href^="https://chaturbate.com/affiliates/"], :root a[href^="https://cagothie.net/"], :root a[href^="https://burpee.xyz/"], :root a[href*="://womens-journal.ru/"], :root a[href^="https://mcdlks.com/"], :root a[href^="https://bs.serving-sys.com"], :root a[href*="//loderna.ru"], :root a[href^="http://www.123-reg.co.uk/affiliate2.cgi"], :root a[href^="https://bongacams10.com/track?"], :root a#mobtop[title^="Рейтинг мобильных сайтов"], :root a[href^="https://blackorange.go2cloud.org/"], :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://affiliates.bet-at-home.com/processing/"], :root a[href^="https://ads.ad4game.com/"], :root a[href^="https://betway.com/"][href*="&a="], :root a[href^="https://awptjmp.com/"], :root a[href^="http://www.fleshlight.com/"], :root a[href^="https://aweptjmp.com/"], :root a[href^="http://www.1clickdownloader.com/"], :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="https://awentw.com/"], :root [href^="/ucdownloader.php"], :root a[href^="https://awejmp.com/"], :root .app.blog-post-page .secondary-header-ad-block, :root a[href^="https://ausoafab.net/"], :root a[href^="https://as.sexad.net/"], :root a[href^="https://playuhd.host/"], :root a[href^="https://as.conjectwatson.com/"], :root a[href^="https://albionsoftwares.com/"], :root a[href^="http://cdn3.adexprts.com/"], :root a[href^="https://spygasm.com/track?"], :root a[href^="https://agacelebir.com/"], :root a[href^="http://amigodistr.ru/"], :root a[href^="//postlnk.com/"], :root a[href^="https://affiliate.rusvpn.com/click.php?"], :root [data-role="tile-ads-module"], :root a[href^="https://affiliate.geekbuying.com/gkbaffiliate.php?"], :root [href^="https://www.reimageplus.com/"], :root a[href^="https://bongacams2.com/track?"], :root a[href^="http://www.twinplan.com/AF_"], :root a[href^="https://affcpatrk.com/"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="http://adultfriendfinder.com/p/register.cgi?pid="], :root a[href^="http://www.advcashpro.com/aff/"], :root a[href^="https://www.popads.net/users/"], :root a[href^="https://adultfriendfinder.com/go/page/landing"], :root a[href^="https://adswick.com/"], :root ADS-RIGHT, :root a[href^="https://tracking.trackcasino.co/"], :root a[href^="https://adserver.adreactor.com/"], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://ads.leovegas.com/redirect.aspx?"], :root [href*="://morelnk.ru/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://ads.cdn.live/"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root a[href^="https://refpaano.host/"], :root a[href^="https://meet-to-fuck.com/tds"], :root a[href*="/loaderu.ru/"], :root a[href^="https://adhealers.com/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="http://servicegetbook.net/"], :root a[href^="https://bngpt.com/"], :root a[href^="http://clickandjoinyourgirl.com/"], :root a[href^="https://ad13.adfarm1.adition.com/"], :root div[data-adv-type="dfp"], :root a[href^="https://misspkl.com/"], :root #MT_overroll ~ div[class][style="left:0px;top:0px;height:480px;width:650px;"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root div[class*="relap"][class*="-rec-item"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="http://zevera.com/afi.html"], :root a[href^="http://go.oclaserver.com/"], :root a[href^="https://ad.atdmt.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root .trc_rbox .syndicatedItem, :root a[href^="https://aaucwbe.com/"], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="http://campaign.bharatmatrimony.com/track/"], :root a[href^="https://a-ads.com/campaigns/"], :root a[href^="http://amigodistrib.ru/dkit-hps/"], :root a[href^="http://adserver.adtech.de/"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://syndication.exoclick.com/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci, :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://a-ads.com/?partner="], :root a[href^="http://hyperlinksecure.com/go/"], :root a[href^="https://track.themadtrcker.com/"], :root a[href*="fortedrow.pro"], :root a[href^="https://bullads.net/get/"], :root a[href^="http://down1oads.com/"], :root a[href^="http://yads.zedo.com/"], :root div[id^="bidvol-widget-"], :root [href^="http://go.cm-trk2.com/"], :root a[href^="https://tracking.comfortclick.eu/"], :root a[href^="https://maymooth-stopic.com/"], :root a[href^="http://xtgem.com/click?"], :root [data-la-show-id], :root a[href^="https://ads.trafficpoizon.com/"], :root a[href*="down-news-games.ru"], :root a[href*="//portakamus.com/"], :root div[class^="local-feed-banner-ads"], :root a[href^="http://wxdownloadmanager.com/dl/"], :root a[href*="kma1.biz"], :root a[href^="http://www.xmediaserve.com/"], :root a[href^="http://www.webtrackerplus.com/"], :root a[href^="http://www.usearchmedia.com/signup?"], :root a[href*="://myrotations.ru/"], :root a[href^="http://www.torntv-downloader.com/"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href*="://ya-distrib.ru/r/"], :root a[href^="http://www.tirerack.com/affiliates/"], :root span[data-component-type="s-ads-metrics"], :root div[class^="AdBannerWrapper-"], :root a[href^="http://www.text-link-ads.com/"], :root a[href^="https://weedzy.co.uk/"][href*="&utm_"], :root a[href^="http://www.streamtunerhd.com/signup?"], :root a[href^="http://www.streamate.com/exports/"], :root a[href^="https://ads-for-free.com/click.php?"], :root iframe[title="mixAd"], :root DIV[id^="DIV_NNN_"], :root a[href^="https://syndication.optimizesrv.com/"], :root a[href^="http://www.socialsex.com/"], :root iframe[src*="utraff.com"], :root a[href^="https://join.virtualtaboo.com/track/"], :root img[src*="//counter.yadro.ru/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root [href^="https://awbbjmp.com/"], :root a[href^="http://www.sfippa.com/"], :root a[href*="://newtdslink.ru/"], :root a[href^="http://secure.signup-page.com/"], :root a[href^="http://www.quick-torrent.com/download.html?aff"], :root [href*="://simpalsid.com/ad/click?id"], :root a[href^="http://www.plus500.com/?id="], :root a[href*=".adsbid.ru"], :root a[href^="http://ffxitrack.com/"], :root a[href^="https://www.im88trk.com/"], :root [href*=".zlinkm.com/"], :root a[href^="http://www.pinkvisualgames.com/?revid="], :root a[href^="http://glprt.ru/affiliate/"], :root a[href^="https://trklvs.com/"], :root a[href^="http://www.paddypower.com/?AFF_ID="], :root iframe[src*="://rstbtmd.com/"], :root a[href*="://101partners-stat2.com/"], :root a[href^="http://www.onwebcam.com/random?t_link="], :root a[href*="://ruprivate.club/"], :root a[href^="http://www.onclickmega.com/jump/next.php?"], :root a[href*="://extlinka.ru/"], :root a[href*="/rapidtor.ru"], :root a[href^="https://go.247traffic.com/"], :root a[href*="://zutcreet.com/"], :root a[href^="http://www.freefilesdownloader.com/"], :root a[href^="http://www.mysuperpharm.com/"], :root a[href^="http://www.myfreepaysite.com/sfw.php?aid"], :root a[href*="tvkw.ru"], :root a[href*="://etcodes.com/"], :root a[href^="http://www.mrskin.com/tour"], :root a[href*="://bubblevard.com/"], :root a[href^="http://bcntrack.com/"], :root a[href^="http://www.securegfm.com/"], :root a[href^="http://www.liversely.net/"], :root a[href^="https://partners.fxoro.com/click.php?"], :root a[href*="//bestonewos.com/"], :root a[href^="https://azpresearch.club/"], :root a[href^="http://www.linkbucks.com/referral/"], :root a[href^="http://www.idownloadplay.com/"], :root a[href^="http://www.hitcpm.com/"], :root div[class^="awpcp-random-ads"], :root a[href^="http://www.graboid.com/affiliates/"], :root a[href^="http://www.firstload.com/affiliate/"], :root a[href^="http://www.friendlyadvertisements.com/"], :root a[href^="http://ul.to/ref/"], :root a[href^="https://content.oneindia.com/www/delivery/"], :root a[href^="http://www.fpcTraffic2.com/blind/in.cgi?"], :root a[href^="http://tds-2.ru"], :root a[href^="http://www.fonts.com/BannerScript/"], :root div[class^="SponsoredAds"], :root a[href*="//loderls.ru"], :root a[href^="https://americafirstpolls.com/"], :root #root > .app .sportrecs, :root a[href^="http://clickserv.sitescout.com/"], :root a[href^="http://www.firstload.de/affiliate/"], :root a[href^="http://www.dealcent.com/register.php?affid="], :root a[data-url^="http://paid.outbrain.com/network/redir?"], :root iframe[id^="google_ads_frame"], :root a[href^="http://www.bet365.com/"][href*="affiliate="], :root a[href^="http://www.bluehost.com/track/"] > img, :root a[href^="http://www.coiwqe.site/"], :root a[href^="https://click.a-ads.com/"], :root a[href^="http://www.clkads.com/adServe/"], :root a[href*="medicalblogs.ru"], :root a[href^="http://www.babylon.com/welcome/index?affID"], :root .grid > .container > #aside-promotion, :root a[href*="//universalini.info/"], :root a[href^="http://www.badoink.com/go.php?"], :root [href*="/uni-tds.com/"], :root a[href^="http://www.afgr3.com/"], :root a[href*=".orgsales.ru"], :root [id^="unit_"] > a[href*="://smi2.net"], :root a[href^="https://fast-redirecting.com/"], :root a[href^="https://bluedelivery.pro/"], :root [id^="unit_"] > a[href*="://mirtesen.ru"], :root [href^="http://join.michelle-austin.com/"], :root a[href^="http://www.sexgangsters.com/?pid="], :root a[href^="http://www.amazon.co.uk/exec/obidos/external-search?"], :root a[href^="http://c.jumia.io/"], :root a[href^="http://www.affiliates1128.com/processing/"], :root a[href^="http://go.ad2up.com/"], :root a[href^="https://badoinkvr.com/"], :root a[href^="http://www.adxpansion.com"], :root a[href^="http://ad-emea.doubleclick.net/"], :root body > iframe[style^="position"][style*="fixed"][id^="iFb"][src^="/?"], :root a[href^="https://clickadilla.com/"], :root .ob_container .item-container-obpd, :root a[href^="http://websitedhoome.com/"], :root a[href^="http://www.adskeeper.co.uk/"], :root a[href*="//advtise.ru/"], :root a[href^="http://www.down1oads.com/"], :root a[href*="/universalsrc.net/"], :root a[href^="http://www.FriendlyDuck.com/"], :root a[href^="http://bodelen.com/"], :root a[href^="http://wgpartner.com/"], :root a[href^="http://webtrackerplus.com/"], :root a[href*="thor-media.ru/click/"], :root div[class^="Ad__adContainer"], :root div[class^="block_fortress"], :root a[href^="http://web.adblade.com/"], :root [href^="https://stvkr.com/"], :root a[href^="http://engine.newsmaxfeednetwork.com/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="http://s9kkremkr0.com/"], :root a[href^="https://traffdaq.com/"], :root a[href^="http://ucam.xxx/?utm_"], :root a[href^="http://traffic.tc-clicks.com/"], :root a[href^="https://dediseedbox.com/clients/aff.php?"], :root [href^="/ucmini.php"], :root a[href^="http://www.wantstraffic.com/"], :root a[href^="http://databass.info/"], :root a[href^="http://track.afcpatrk.com/"], :root div[class^="Ad__container"], :root a[href^="http://adprovider.adlure.net/"], :root a[href^="http://t.wowtrk.com/"], :root a[href^="http://tezfiles.com/pr/"], :root a[href^="http://putanapartners.com/go."], :root [id*="ScriptRoot"], :root a[href^="http://fileboom.me/pr/"], :root a[href^="//coarsewary.com/"], :root a[href*=".trust.zone"], :root a[href^="http://www.firstclass-download.com/"], :root a[href^="http://tracking.deltamediallc.com/"], :root a[href^="http://tc.tradetracker.net/"] > img, :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href*="//loderla.online"], :root a[href^="http://spygasm.com/track?"], :root a[href^="http://sharesuper.info/"], :root a[href^="https://awecrptjmp.com/"], :root a[href*="24smi.host/top/"], :root [data-ez-name], :root img[src^="/stat/"][width="88"][height="31"], :root a[href^="http://server.cpmstar.com/click.aspx?poolid="], :root a[href^="http://www.fbooksluts.com/"], :root a[href^="http://c.actiondesk.com/"], :root a[href^="http://intent.bingads.com/"], :root a[href^="http://www.cdjapan.co.jp/aff/click.cgi/"], :root div[id^="advertur_"], :root a[href*="://lapina.xyz/"], :root .trc_related_container div[data-item-syndicated="true"], :root a[href^="https://www.firstload.com/affiliate/"], :root div[id^="rtn4p"], :root a[href^="http://see.kmisln.com/"], :root a[href^="http://secure.hostgator.com/~affiliat/"], :root a[href^="http://rs-stripe.wsj.com/stripe/redirect"], :root a[href*="//webbrowser.club/"], :root a[href^="http://refpaano.host/"], :root a[href*="tdstrk.ru"], :root a[data-oburl^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://refpa.top/"], :root a[href*="adpool.bet/"], :root a[href^="https://easygamepromo.com/ef/custom_affiliate/"], :root a[href^="http://record.betsafe.com/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href^="http://buysellads.com/"], :root a[href^="http://reallygoodlink.freehookupaffair.com/"], :root a[href*="://refpamjeql.top/"], :root a[href^="https://keep2share.cc/pr/"], :root a[href^="http://pityhostngco2.xyz/"], :root a[href^="http://adlev.neodatagroup.com/"], :root a[href^="http://reallygoodlink.extremefreegames.com/"], :root a[href^="https://bnsjb1ab1e.com/"], :root a[href*="/onvix.co/promo/"][target=_blank], :root a[href^="http://pwrads.net/"], :root a[href^="https://www.xvinlink.com/?a_fid="], :root a[href*="top.24smi.info"], :root a[href^="http://promos.bwin.com/"], :root a[href*="//yojlf.com"], :root a[href^="http://z1.zedo.com/"], :root a[href^="http://pokershibes.com/index.php?ref="], :root [id^="google_ads_iframe"], :root a[href^="http://partners.etoro.com/"], :root [data-mobile-ad-id], :root LEADERBOARD-AD, :root a[href^="http://papi.mynativeplatform.com:80/pub2/"], :root a[href*="://et-cod.com/"], :root a[href^="http://searchtabnew.com/"], :root a[href*="://clickstats.pw/"], :root div[id^="ad-gpt-"], :root a[href^="http://pan.adraccoon.com?"], :root a[href*="nhebd.xyz"], :root a[href^="http://online.ladbrokes.com/promoRedirect?"], :root a[href^="https://dltags.com/"], :root a[href^="http://onclickads.net/"], :root a[href^="http://mmo123.co/"], :root div[id^="amzn-assoc-ad"], :root a[href^="https://www.oboom.com/ref/"], :root iframe[src*="traffic-media.co"], :root a[href^="http://media.paddypower.com/redirect.aspx?"], :root a[href^="https://fileboom.me/pr/"], :root a[href*="/rlink/simptizer/"], :root a[href^="http://marketgid.com"], :root a[href^="https://aff-ads.stickywilds.com/"], :root a[href^="http://www.bitlord.me/share/"], :root a[href^="https://www.kingsoffetish.com/tour?partner_id="], :root a[href^="//pubads.g.doubleclick.net/"], :root a[href^="http://lp.ncdownloader.com/"], :root a[href*="://www.meendoru.net/?partner="], :root [href*=".engine.adglare.net/"], :root a[href^="http://allaptair.club/"], :root a[href^="https://moneynow.one/"], :root a[href^="http://look.djfiln.com/"], :root a[href^="https://track.trkinator.com/"], :root div[id^="ad-position-"], :root a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"], :root a[href^="http://liversely.com/"], :root a[href*="re-directme.com"], :root a[href^="http://keep2share.cc/pr/"], :root a[href*="retagapp.com"], :root a[href^="http://www.liutilities.com/"], :root a[href^="http://www.dl-provider.com/search/"], :root [href^="http://join.shemalesfromhell.com/"], :root .pubexchange_module .pe-external, :root a[href*="ultrabit.ws"], :root a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://join3.bannedsextapes.com/track/"], :root a[href^="https://gamescarousel.com/"], :root a[href^="http://istri.it/?"], :root a[href^="http://mob1ledev1ces.com/"], :root a[href^="//voyeurhit.com/cs/"], :root a[href^="http://hd-plugins.com/download/"], :root a[href*="/kshop3.biz"], :root [data-desktop-ad-id], :root a[href^="https://look.utndln.com/"], :root a[href^="http://googleads.g.doubleclick.net/pcs/click"] { display: none !important; }
-:root a[href^="https://ovb.im/"], :root a[href^="https://watchmygirlfriend.tv/"], :root .nrelate .nr_partner, :root [data-link*="://ubar-pro"], :root a[href^="http://go.xtbaffiliates.com/"], :root a[href^="http://secure.cbdpure.com/aff/"], :root a[href*="://news.mirtesen.ru/newdata/"], :root a[href^="http://www.downloadthesefiles.com/"], :root a[href*="://clickfrm.com/"], :root div[class^="ResponsiveAd-"], :root a[href^="https://oackoubs.com/"], :root div[id^="criteo-"][style], :root a[href*="://edugrampromo.com/"], :root a[href*="://cozibaneco.com/"], :root a[href^="http://install.securewebsiteaccess.com/"], :root a[href^="http://www.revenuehits.com/"], :root [href*="postlnk.com"], :root a[href^="http://www.downloadweb.org/"], :root a[href^="http://go.seomojo.com/tracking202/"], :root [href*="://edgrmtracking.com/"], :root [data-link*="://topclicks.club/"], :root a[href^="http://go.mobisla.com/"], :root a[href*="/universallnk.net/"], :root a[href^="http://go.fpmarkets.com/"], :root a[href*="rexchange.begun.ru/rclick?"], :root div[class^="AdSlot__container"], :root a[href^="http://findersocket.com/"], :root a[href^="https://porngames.adult/?SID="], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"], :root a[href^="http://g1.v.fwmrm.net/ad/"], :root a[href^="http://www.hibids10.com/"], :root a[href^="http://fusionads.net"], :root a[href^="http://us.marketgid.com"], :root a[href^="http://imads.integral-marketing.com/"], :root a[href^="http://freesoftwarelive.com/"], :root a[href^="http://adtrackone.eu/"], :root a[href*="://takenewsoft.ru/"], :root span[title="Ads by Google"], :root a[href^="http://finaljuyu.com/"], :root a[href^="http://ethfw0370q.com/"], :root a[href^="https://bongacams"][href*="com/track?"], :root [id^="bunyad_ads_"], :root a[href^="http://elitefuckbook.com/"], :root a[href*="kinqon.ru"], :root a[href^="http://eclkmpsa.com/"], :root a[href^="http://wopertific.info/"], :root a[href^="http://earandmarketing.com/"], :root div[class^="hp-ad-rect-"], :root a[href^="http://dwn.pushtraffic.net/"], :root a[href^="http://aflrm.com/"], :root a[href^="http://deloplen.com/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="http://www.friendlyduck.com/AF_"], :root #content > #center > .dose > .dosesingle, :root a[href*="//rotatemysoft.ru/"], :root a[href^="http://d2.zedo.com/"], :root noindex > .search_result[class*="search_result_"], :root amp-fx-flying-carpet, :root a[href^="http://czotra-32.com/"], :root a[href^="https://a.adtng.com/"], :root a[href*="://loderkkis.ru"], :root a[href^="http://static.fleshlight.com/images/banners/"], :root body > div[style="position: fixed; z-index: 999999; width: 400px; height: 308px; right: 5px; bottom: 5px;"], :root a[href^="http://codec.codecm.com/"], :root a[href^="https://www.travelzoo.com/oascampaignclick/"], :root a[href^="https://see.kmisln.com/"], :root a[href^="http://refer.webhostingbuzz.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="http://www.downloadplayer1.com/"], :root a[href^="http://clicks.binarypromos.com/"], :root a[href*="advertwebgid.ru"], :root a[href*="//ext-load.net"], :root [id^="ad_slider"], :root a[href^="http://chaturbate.com/affiliates/"], :root div[class^="PreAd_"], :root a[href*="makegreat.website"], :root a[href^="https://track.bruceads.com/"], :root a[href^="https://t.aslnk.link/"], :root div[id^="traffim-widget"], :root a[href^="https://m.do.co/c/"] > img, :root a[href^="http://track.trkvluum.com/"], :root [href^="https://secure.bmtmicro.com/servlets/"], :root a[href^="http://amzn.to/"] > img[src^="data"], :root a[href^="http://bs.serving-sys.com/"], :root a[href^="http://cpaway.afftrack.com/"], :root a[href^="http://cdn.adsrvmedia.net/"], :root [href^="https://infinitytrk.com/"], :root [onclick*="//msetup.pro/"], :root [onclick^="location.href='http://www.reimageplus.com"], :root [lazy-ad="top_banner"], :root a[href^="http://360ads.go2cloud.org/"], :root a[href^="http://dftrck.com/"], :root a[href^="http://casino-x.com/?partner"], :root a[href^="https://meet-sexhere.com/"], :root a[href*="ex.24smi.info"], :root a[href^="http://record.sportsbetaffiliates.com.au/"], :root a[href^="http://campeeks.com/"][href*="&utm_"], :root a[href^="http://download-performance.com/"], :root a[href^="http://www.on2url.com/app/adtrack.asp"], :root a[href*="turbotraf.com"], :root [href^="https://affect3dnetwork.com/track/"], :root a[href^="https://prime.rambler.ru/promo/"], :root a[href*="/installpack.net"], :root a[href^="http://campaign.bharatmatrimony.com/cbstrack/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="http://serve.williamhill.com/promoRedirect?"], :root a[href^="https://uncensored.game/"], :root a[href^="http://www.seekbang.com/cs/"], :root a[href^="http://syndication.exoclick.com/"], :root a[href^="http://bluehost.com/track/"], :root [data-css-class="dfp-inarticle"], :root div[id^="smi_teaser_"], :root div[id^="vuukle-ad-"], :root a[href^="http://betahit.click/"], :root [href^="https://www.dcpodj3k5.com/"], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="http://enter.anabolic.com/track/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root a[href^="http://banners.victor.com/processing/"], :root a[href^="http://api.content.ad/"], :root div[style="width: 252px; height: 450px; position: fixed; right: 0px; top: 0px; overflow: hidden; z-index: 10000;"], :root a[href^="http://hotcandyland.com/partner/"], :root div[data-test-id="AdBannerWrapper"], :root a[href^="http://www.urmediazone.com/signup"], :root div[class^="AdCard_"], :root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href^="http://affiliates.lifeselector.com/"], :root a[href^="https://leg.xyz/?track="], :root a[href^="http://affiliate.glbtracker.com/"], :root [href^="https://t.ajrkm.link/"], :root a[href^="http://affiliate.coral.co.uk/processing/"], :root a[href^="http://aff.ironsocket.com/"], :root a[href^="http://datxxx.com"], :root div[class^="BannerAd_"], :root a[href^="http://tour.mrskin.com/"], :root a[href*="//tranqvilius.com/"], :root a[href^="http://linksnappy.com/?ref="], :root object[data*="ads.com/clk.swf"], :root a[href*="/eversaree.bid"], :root a[href^="http://adtrack123.pl/"], :root a[href^="http://adsrv.keycaptcha.com"], :root a[href^="http://adserver.adreactor.com/"], :root a[href^="http://ad.doubleclick.net/"], :root [href^="http://homemoviestube.com/"], :root a[href^="https://adsrv4k.com/"], :root a[href^="http://trk.mdrtrck.com/"], :root [href^="http://globsads.com/"], :root [href^="https://shrugartisticelder.com"], :root iframe[data-src*="fwdcdn.com/frame/partners/"], :root a[href^="http://www.friendlyquacks.com/"], :root iframe[id^="marketgid_"], :root a[onclick*="n284adserv.com"], :root a[href^="https://scurewall.co/"], :root a[href*="goext.info"], :root [name^="google_ads_iframe"], :root div[class^="mixadvert"], :root [href^="http://join.rodneymoore.com/"], :root [id*="MarketGid"], :root adblocker, :root a[href^="http://espn.zlbu.net/"], :root a[href^="http://admrotate.iplayer.org/"], :root a[href^="http://adclick.g.doubleclick.net/"], :root a[href^="http://www.flashx.tv/downloadthis"], :root .vid-present > .van_vid_carousel__padding, :root a[href*="://getfiletds.ru/"], :root #header + #content > #left > #rlblock_left, :root a[href^="http://affiliates.pinnaclesports.com/processing/"], :root a[href^="http://ad.yieldmanager.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root [data-template-type="nativead"], :root a[href^="http://www.menaon.com/installs/"], :root img[width="120"][height="600"], :root a[href^="//syndication.dynsrvtbg.com/"], :root [data-dynamic-ads], :root a[href^="http://srvpub.com/"], :root a[href*="//offergate.pro/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root a[href^="http://secure.vivid.com/track/"], :root a[href^="http://see-work.info/"], :root a[href^="https://www.passeura.com/"], :root a[href*="wow-partners.com/click.php"], :root [class^="flat_"][class*="_cross"], :root a[href^="http://www.pinkvisualpad.com/?revid="], :root a[href*="://installpack.ru"], :root a[href^="https://secure.adnxs.com/clktrb?"], :root div[data-mpu1], :root a[href^="http://adserver.adtechus.com/"], :root a[href*="browser-ru.site"], :root a[href^="http://www.download-provider.org/"], :root a[href*="//12traffic.ru/"], :root a[href^="http://play4k.co/"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="http://www.roboform.com/php/land.php"], :root a[href="//rufflycouncil.com/"], :root a[href*=".zlink9.com/"], :root a[href^="http://www.mobileandinternetadvertising.com/"], :root a[href*="://reidancis.com/"], :root [href^="https://join.playboyplus.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root [id^="relap-custom-iframe-rec"], :root div[class^="AdEmbeded__AddWrapper"], :root a[href*="://topclicks.club/"], :root a[href^="http://affiliates.score-affiliates.com/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://ptapjmp.com/"], :root a[href^="https://ttf.trmobc.com/"], :root a[href^="http://n.admagnet.net/"], :root a[href*="lifenews24x7.ru"], :root .base-page_container > .banerRight, :root a[data-obtrack^="http://paid.outbrain.com/network/redir?"], :root div[class^="BlockAdvert-"], :root a[href*="://analyticsq.com"], :root a[href^="https://go.onclasrv.com/"], :root img[src*="top.mail.ru/counter?"], :root a[href^="http://wct.link/"], :root a[href^="https://zononi.com/"], :root [onclick*="msetup"][onclick*="partner"][onclick*="utm_"], :root a[href^="http://adserving.unibet.com/"], :root [href^="https://bulletprofitsmartlink.com/"], :root [href^="https://join3.bannedsextapes.com"], :root a[href^="//benoopto.com/"], :root [lazy-ad="leftbottom_banner"], :root [id^="div-gpt-ad"], :root a[href^="https://intrev.co/"], :root a[href^="http://https://www.get-express-vpn.com/offer/"], :root [lazy-ad="lefttop_banner"], :root a[href^="http://c.ketads.com/"], :root a[href^="https://secure.starsaffiliateclub.com/C.ashx?"], :root [href^="https://totlnkcl.com/"], :root .trc_rbox_div .syndicatedItemUB, :root [href^="https://zone.gotrackier.com/"], :root a[href*="://fast2click.ru/"], :root [href^="https://www.mypillow.com/"] > img, :root [href^="https://freecourseweb.com/"] > .sitefriend, :root [href^="https://www.hostg.xyz/aff_c"] > img, :root aside[id^="tn_ads_widget-"], :root a[href^="https://track.totalav.com/"], :root [href^="https://wct.link/"], :root [data-href^="https://download.cdn.yandex.net/yandex-tag/weboffer/"], :root [href^="https://traffserve.com/"], :root a[href^="https://topoffers.com/"][href*="/?pid="], :root iframe[src*="tureckiy-serial.ru/"][src$=".php"], :root a[href^="https://syndication.dynsrvtbg.com/"], :root a[href*="://dafeb.ru/"], :root a[href^="http://vinfdv6b4j.com/"], :root a[href^="http://click.plista.com/pets"], :root a[href^="https://www.awin1.com/cread.php?awinaffid="], :root a[href*="//tdsrotate.ru/"], :root a[href^="https://servedbyadbutler.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://mob1ledev1ces.com/"], :root a[href^="https://promo-bc.com/"], :root a[data-redirect^="http://paid.outbrain.com/network/redir?"], :root a[href^="https://explore.findanswersnow.net/"], :root [id^="adframe_wrap_"], :root div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"], :root a[href^="https://go.trackitalltheway.com/"], :root [alt="Rambler's Top100"], :root a[href^="https://ismlks.com/"], :root .plista_widget_belowArticleRelaunch_item[data-type="pet"], :root #taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root a[href^="http://click.payserve.com/"], :root a[href^="https://sexsimulator.game/tab/?SID="], :root .rc-cta[data-target], :root iframe[src^="http://ad.yieldmanager.com/"], :root a[href^="https://porntubemate.com/"], :root a[href^="http://pubads.g.doubleclick.net/"], :root a[href^="http://s5prou7ulr.com/"], :root a[href^="http://azmobilestore.co/"], :root [data-ad-manager-id], :root a[href^="http://ad-apac.doubleclick.net/"], :root a[href^="https://traffic.bannerator.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="http://hpn.houzz.com/"], :root a[href^="http://www.gfrevenge.com/landing/"], :root div[id^="M"][id*="Composite"], :root a[href^="https://mmwebhandler.aff-online.com/"], :root #PopWin[onmousemove], :root [href^="https://r.kraken.com/"], :root a[href^="http://xads.zedo.com/"], :root [class^="div-gpt-ad"], :root a[href^="http://www.ragazzeinvendita.com/?rcid="], :root a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"], :root .plistaList > .itemLinkPET, :root a[href^="http://www.adbrite.com/mb/commerce/purchase_form.php?"], :root a[href*="feellights.ru"], :root a[href^="http://landingpagegenius.com/"], :root .section-subheader > .section-hotel-prices-header, :root [href^="http://join.ts-dominopresley.com/"], :root [href^="https://go.affiliatexe.com/"], :root a[href^="https://t.mobtya.com/"], :root a[href^="https://www.adxtro.com/"], :root [class*="__adv-block"], :root .trc_rbox_border_elm .syndicatedItem, :root a[href^="http://www.myfreepaysite.com/sfw_int.php?aid"], :root .app.blog-post-page #right-column > .sticky, :root a[href*="://tdsrotations.ru/"], :root [href^="https://glersakr.com/"], :root a[href^="https://freeadult.games/"], :root a[href^="http://liversely.net/"], :root a[href^="http://mgid.com/"], :root a[href^="http://k2s.cc/pr/"], :root [href^="/admdownload.php"], :root a[href^="https://www.spyoff.com/"], :root div[data-native-ad], :root a[href^="https://click.hoolig.app/"], :root AD-TRIPLE-BOX, :root a[href*="/advjump.com"], :root [href^="http://join.hardcoreshemalevideo.com/"], :root .content_rb[id^="content_rb_"], :root a[href^="http://ads2.williamhill.com/redirect.aspx?"], :root a[href^="//www.mgid.com/"], :root [href^="https://go.astutelinks.com/"], :root div[class*="spklw"][data-type="ad"], :root [href^="http://join.shemale.xxx/"], :root a[href^="http://www.TwinPlan.com/AF_"], :root [href^="https://click2cvs.com/"], :root a[href^="http://ads.expekt.com/affiliates/"], :root a[href^="https://deliver.ptgncdn.com/"], :root [href^="https://www.targetingpartner.com/"], :root a[href^="http://latestdownloads.net/download.php?"], :root [class^="AdvertisingSlot_"], :root [href^="http://trafficare.net/"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href^="http://bestorican.com/"], :root a[href^="http://bc.vc/?r="], :root a[href^="http://www.afgr2.com/"], :root #slashboxes > .deals-rail, :root FBS-AD, :root [href^="https://go.4rabettraff.com/"], :root display-ad-component, :root a[href^="https://ak.hetaruwg.com/"], :root iframe[src*="://partner-widget.vse-sdal.com/"], :root [href^="https://mylead.global/stl/"] > img, :root display-ads, :root a[href^="http://www.gamebookers.com/cgi-bin/intro.cgi?"], :root div[id^="crt-"][style], :root a[href^="http://igromir.info/"], :root a[href^="http://affiliates.thrixxx.com/"], :root app-large-ad, :root a[href^="https://farm.plista.com/pets"], :root [class^="Ad-adContainer"], :root a[href^="http://www.getyourguide.com/?partner_id="], :root a[href^="http://bcp.crwdcntrl.net/"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root a[href^="http://apytrc.com/click/"], :root [href^="https://join.girlsoutwest.com/"], :root [id^="ad-wrap-"], :root a[href^="https://www.rabbits.webcam/?id="], :root a[href^="https://delivery.porn.com/"], :root a[href^="http://ads.sprintrade.com/"], :root a[href^="https://trackjs.com/?utm_source"], :root a[href^="https://relap.io/"][href*="promo_ad_link"], :root AFS-AD, :root img[src*="cycounter"][width="88"][height="31"], :root .trc_rbox_div .syndicatedItem, :root a[href^="//www.pd-news.com/"], :root a-ad, :root [href^="http://join.trannies-fuck.com/"], :root a[href^="http://1phads.com/"], :root a[href^="http://get.slickvpn.com/"], :root [data-ad-module], :root a[href^="https://secure.cbdpure.com/aff/"], :root div[style*="am15.net/img/player_skins"], :root AMP-AD, :root a[href*="://mysoftrotate.ru/"], :root a[href^="https://x.trafficandoffers.com/"], :root div[id^="sblock_inform_"], :root .scroll-fixable.rail-right > .deals-rail, :root .plistaList > .plista_widget_underArticle_item[data-type="pet"], :root a[href*="24sm.in/top/"], :root a[href^="http://goldmoney.com/?gmrefcode="], :root a[href^="http://fsoft4down.com/"], :root a[href*="//newbrowser.me/"], :root div[id^="ad_bigbox_"], :root #content > #right > .dose > .dosesingle, :root a[href^="http://paid.outbrain.com/network/redir?"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root a[href*="/ber-ter.com"], :root .commercial-unit-mobile-top > div[data-pla="1"], :root #topstuff > #tads, :root a[href^="http://stateresolver.link/"], :root a[href^="http://galleries.securewebsiteaccess.com/"], :root [data-freestar-ad], :root [class*="__adspot-title-container"], :root a[href^="https://a.bestcontentfood.top/"], :root #ads > .dose > .dosesingle { display: none !important; }</style></head>
+<html lang="en">
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="csrf" content="ItFPi:ed495d301096ff81568aaa09cbd32496" id="csrf">
+	<link rel="shortcut icon" href="/img/tildafavicon.ico">
+
+	<title>Tilda: Minecraft</title>
+
+	<script src="/js/jquery-1.10.2.min.js"  type="text/javascript"></script>
+
+	<script src="https://static.tildacdn.com/js/tilda-scripts-3.0.min.js"  type="text/javascript"></script>
+
+	
+		<link href="/front/css/t-bootstrap.min.css?v=41164" rel="stylesheet">
+		<script src="/js/jquery-ui.min.js" type="text/javascript"></script>
+		
+		
+				<link href="/front/css/t-page-all.min.css?v=41164" rel="stylesheet">
+		<link href="/front/css/t-page-edit-all.min.css?v=41164" rel="stylesheet">
+				
+		
+		<link href="/front/css/t-common.min.css?v=41164" rel="stylesheet">
+		<link href="/front/css/t-futura.min.css" rel="stylesheet">
+
+		<link href="/front/css/t-popups.min.css?v=41164" rel="stylesheet">
+		<link href="/front/css/formstyler.min.css" rel="stylesheet">
+		<link href="/front/css/t-project-settings.min.css?v=41164" rel="stylesheet">
+		<script src="/front/js/formstyler.min.js"  type="text/javascript"></script>
+		<script src="/front/js/t-popups.min.js?v=41164"  type="text/javascript"></script>
+
+        <!-- MiniColors -->
+    	<script src="/front/js/jquery.minicolors.min.js?v=41164"></script>
+    	<link rel="stylesheet" href="/front/css/jquery.minicolors.min.css?v=41164">
+
+		<script type="text/javascript" src="/front/js/t-common.min.js?v=41164"></script>
+		<script type="text/javascript" src="/front/js/t-helpbubble.min.js?v=41164"></script>
+		
+		<!-- Redactor is here -->
+		<script type="text/javascript" src="/front/js/jquery.htmlClean.min.js"></script>
+					<link rel="stylesheet" href="/front/css/quill-custom.min.css?v=41164" />
+			<script type="text/javascript" src="/front/js/t-quill.min.js?v=41164"></script>
+			<script type="text/javascript">window.ver_redactor='q';</script>		
+				
+		<link href="/front/vendor/redactor/2/tilda_fontcolorex.css" rel="stylesheet">
+		<link href="/front/vendor/bootstrap-colorpicker-master/dist/css/bootstrap-colorpicker.min.css" rel="stylesheet" />
+		<script src="/front/vendor/bootstrap-colorpicker-master/dist/js/bootstrap-colorpicker.js"  type="text/javascript"></script>
+
+		<script src="/front/vendor/ace/ace.js"></script>
+		
+		<link href="/front/css/t-upload.min.css" type="text/css" rel="stylesheet" />
+		<script src="/front/js/t-upload.min.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			lang = "RU";
+			Tildaupload_PUBLICKEY = 'uiyejbdskjfiowe32';
+			Tildaupload_UPLOADKEY = '37336632-6261-4961-b661-313962313233';		</script>
+
+	
+	<link href="/css/tilda-grid-3.0.min.css" rel="stylesheet" media="screen">
+
+			<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&subset=latin,cyrillic" rel="stylesheet">		
+	
+	
+	
+		
+		
+
+	<link href="/projects/style/?projectid=4598894&v=41164" rel="stylesheet" media="screen">
+	<script src="/projects/js/?projectid=4598894&v=41164"></script>
+
+			<script src="https://static.tildacdn.com/js/tilda-slds-1.4.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/hammer.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-zoom-2.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-animation-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-video-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-video-processor-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/bootstrap.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-cover-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-map-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-t136.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-forms-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-menusub-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/highlight.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/jquery.tooltipster.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/jquery.touchswipe.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/juxtapose.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-slides-1.1.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/typed.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-cart-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-products-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-catalog-1.1.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-vote-1.1.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/masonry-imagesloaded.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-feed-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-wishlist-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-cover-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-events-1.0.min.js" type="text/javascript"></script>
+			<script src="https://static.tildacdn.com/js/tilda-video-processor-1.0.min.js" type="text/javascript"></script>
+	
+			<link href="https://static.tildacdn.com/css/tilda-slds-1.4.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-zoom-2.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-animation-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-cover-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-forms-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-menusub-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/carousel-btstrp.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-carousel-1.0.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/highlight.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tooltipster.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-popup-1.1.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/juxtapose.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-slides-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-catalog-1.1.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-feed-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-cover-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-forms-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-slds-1.4.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/tilda-carousel-1.0.min.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/ya-share.css" rel="stylesheet" media="screen">
+			<link href="https://static.tildacdn.com/css/carousel-btstrp.min.css" rel="stylesheet" media="screen">
+	
+
+	
+	
+	
+	<script type="text/javascript">
+		window.ver='41164';
+	</script>
+
+	
+
+</head>
+
+<body style="margin:0px;" data-lang="RU" data-country="RU">
+
+
+<!-- Fixed main menu -->
+<div class="tp-menu" role="navigation" id="mainmenu">
+
+	<div id="info-alert" style="position:fixed; width:100%; z-index:10000;"></div>
+
+	<div class="tp-menu__wrapper" role="navigation" id="mainmenu">
+
+		<div class="tp-menu__waves"><img src="/tpl/img/tp-menu__waves-black.png"></div>
+
+		<div class="tp-menu__leftitems">
+			<a href="/projects/" class="tp-menu__a-home"><span class="tp-menu__icon-home glyphicon glyphicon-home"></span>&nbsp;&nbsp;<span class="tp-menu__span-dashboard">Мои сайты</span></a><span class="tp-menu__span-arrow">&nbsp;&nbsp;&#10230;</span>
+			<a href="/projects/?projectid=4598894" class="tp-menu__a-pagetitle">&nbsp;&nbsp;<span class="tp-menu__span-pagetitle">Маинкрафт</span></a>
+		</div>
+
+				<div class="tp-menu__leftdrop">
+		  <div class="tp-menu__leftdrop-icon" onclick="tp_show_leftdrop();"><img src="/tpl/img/page/tp-15-down.svg"></div>
+		  <div class="tp-menu__leftdrop-list">
+							<a href="/projects/?projectid=4598894&addnewpage=yes" style='background-color:#eee;padding-left:20px;padding-top:10px;padding-bottom:10px;margin:-10px;margin-bottom:10px;'>Создать новую страницу</a>
+						<div class="tp-menu__leftdrop-list-wraper">
+				
+				
+												<a href="/page/?pageid=22304794" style="font-weight:600;"><img src="/tpl/img/td-icon-home.png" width="8px" class="tp-menu__leftdrop-list-ico-home">Minecraft</a>
+																<a href="/page/?pageid=22308044" >Education Edition</a>
+																<a href="/page/?pageid=22957988" >Minecraft Dungeon</a>
+																<a href="/page/?pageid=23662419" >Мой сервер</a>
+																																																															</div>
+		  </div>
+		</div>
+		
+		<div class="tp-menu__rightitems">
+
+			<ul class="navbar-nav navbar-right">
+
+				<li class="tp-menu__item tp-menu__item-undo" id="undobutton" style="display:none;"><a href="javascript:undo();">Отменить</a></li>
+
+				<li class="tp-menu__item" id="guidesmenubutton" style="display:none;"><a href="javascript:showguides();">Выключить сетку</a></li>
+								<li class="tp-menu__item"><a href="/page/preview/?pageid=22304794" class="js-btn-preview">Предпросмотр</a></li>
+				<li class="tp-menu__item"><a href="javascript:pagePublish()" id="page_menu_publishlink"><b>Опубликовать</b></a></li>
+
+								<li class="tp-menu__item tp-menu__item-pagesettings"><a href="javascript:showformEditPageSettings_new('22304794');">Настройки</a></li>
+				
+				<li class="tp-menu__item"><a href="https://help-ru.tilda.cc" target="_blank">Помощь</a></li>
+
+				<li class="tp-menu__item dropdown">
+				  <a class="dropdown-toggle" data-toggle="dropdown">Еще <b class="caret"></b></a>
+				  <ul class="dropdown-menu">
+					  					  <li class="tp-menu__item-drop"><a href="/projects/settings/?projectid=4598894">Настройки сайта</a></li>
+					  <li class="tp-menu__item-drop"><a href="javascript:showformEditPageSettings_new('22304794');">Настройки страницы</a></li>
+					  					  <li class="tp-menu__item-drop"><a href="javascript:showformEditProjectFonts('4598894');">Шрифты</a></li>
+					  					  <li class="tp-menu__item-drop"><a href="/projects/">Мои сайты</a></li>
+					  					  <li class="tp-menu__item-drop"><a href="/identity/">Профиль</a></li>
+					  <li class="tp-menu__item-drop"><a href="/identity/plan/">Тарифы и оплата</a></li>
+					  <li class="tp-menu__item-drop"><a href="https://help-ru.tilda.cc" target="_blank">Помощь</a></li>
+					  					  <li class="tp-menu__item-drop" id="blocksmapbutton"><a data-hook="blockmap-button" href="">Карта блоков</a></li>
+					  <li class="tp-menu__item-drop"><a href="/login/exit/">Выйти</a></li>
+				  </ul>
+				</li>
+
+			</ul>
+
+		</div>
+
+		<div class="tp-menu__rightitems-mobile">
+			<ul class="navbar-nav navbar-right">
+				<li class="tp-menu__item tp-menu__item-undo" id="undobutton" style="display:none;"><a href="javascript:undo();">Отменить</a>&nbsp;&nbsp;</li>
+				<li class="tp-menu__item"><a href="/page/?pageid=22304794&previewmode=yes">Предпросмотр</a>&nbsp;&nbsp;</li>
+				<li class="tp-menu__item"><a href="javascript: pagePublish()"><b>Опубликовать</b></a></li>
+			</ul>
+		</div>
+
+	</div>
+
+</div>
+<!--/// Fixed main menu -->
+
+
+
+<div id="for_redactor_toolbar" style="position:fixed; top:-60px; left:0; height:60px; width:100%; z-index:2000; background-color:#fff;"></div>
+
+<div class="tp-library"></div>
+
+<div id="editforms" class="pe-container"></div>
+
+<div id="editformsxl"></div>
+
+<div id="closelayer"></div>
+
+<div id="loadicon"><img src="/tpl/img/ajax-loader.gif"></div>
+
+<div class="modal fade tm-popup tm-popup_fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog tm-popup__wrap">
+    <div class="modal-content tm-popup__window" id="myModalContent">
+    </div>
+  </div>
+</div>
+
+<div class="modal fade tm-popup tm-popup_fade" id="myHelpModal" tabindex="-1" role="dialog" aria-labelledby="myHelpModalLabel" aria-hidden="true">
+  <div class="modal-dialog tm-popup__wrap">
+    <div class="modal-content tm-popup__window" id="myHelpModalContent">
+    </div>
+  </div>
+</div>
+
+<div class="td-popup" id="popup_pagesettings">
+	<div class="td-popup__wrap">
+		<div class="td-popup-window">
+		</div>
+	</div>
+</div>
+
+<div id="savesortbuttons">
+	<div><button class="btn default btn-lg" onclick="cancelSort();">Отменить</button>&nbsp;&nbsp;<button class="btn btn-primary btn-lg" onclick="saveRecordsSort();">Сохранить порядок блоков</button></div>
+</div>
+
+<div id="saveselectbuttons">
+	<div><button class="btn default btn-lg" onclick="cancelSelect();">Вернуться к редактированию</button>&nbsp;&nbsp;&nbsp;&nbsp;<button class="btn btn-primary btn-lg" id="selectmodebtn-move" onclick="selected_records_movemodeon();">Переместить</button>&nbsp;&nbsp;<button class="btn btn-primary btn-lg" id="selectmodebtn-del" onclick="deleteRecordsSelected();">Удалить</button>&nbsp;&nbsp;<button class="btn btn-primary btn-lg" id="selectmodebtn-copy" onclick="selected_records_buf_copy();">Копировать</button>&nbsp;&nbsp;<button class="btn btn-primary btn-lg" id="selectmodebtn-paste" onclick="selected_records_pastemodeon();">Вставить</button></div>
+</div>
+
+<div class="td-popup" id="popup_searchandselectimages">
+    <div class="td-popup__wrap">
+        <div class="td-popup-window">
+          search
+        </div>
+    </div>
+</div>
+
+
+
+<!--allrecords-->
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="4598894" data-tilda-page-id="22304794"  data-blocks-animationoff="yes" data-tilda-mode="edit" >
+
+<div class="record" id="record370745313" recordid="370745313" off="n" data-record-type="454" data-record-category="17" data-record-cod="ME202" style="background-image:url('/img/chess.png');">
+
+		
+	<div id="rec370745313" class="r" style=" " data-animationappear="off" >
+
+		<!-- T454 -->
+
+
+<div id="nav370745313marker"></div>
+
+<div id="nav370745313" class="t454  t454__positionstatic " style="background-color: rgba(0,0,0,1); height:100px; position:static; " data-bgcolor-hex="#000000" data-bgcolor-rgba="rgba(0,0,0,1)" data-navmarker="nav370745313marker" data-appearoffset="" data-bgopacity-two="" data-menushadow="" data-bgopacity="1"   data-menu-items-align="" data-menu="yes">
+    <div class="t454__maincontainer t454__c12collumns" style="height:100px;">
+
+	      <div class="t454__logowrapper">
+            		  </div>
+
+          		  <div class="t454__leftwrapper" style="padding-left:20px; padding-right:160px; text-align: left;">
+            <div class="t454__leftmenuwrapper">
+              <ul class="t454__list">
+                                                                              <li class="t454__list_item" style="padding:0 0 0 15px 0 0;"><a class="t-menu__link-item" href="http://minecraft.org.tilda.ws/educationedition" data-menu-submenu-hook=""  style="color:#ffffff;font-weight:600;" data-menu-item-number="1">Minecraft education Edition</a>
+                                </li>
+                                                            </ul>
+            </div>
+		  </div>
+          
+		  <div class="t454__rightwrapper" style="padding-right:20px; padding-left:160px; text-align: right;">
+                            <div class="t454__rightmenuwrapper">
+                <ul class="t454__list">
+                                                                                                  <li class="t454__list_item" style="padding:0 0 0 15px 0 0;"><a class="t-menu__link-item" href="http://minecraft.org.tilda.ws/minecraftdungeon" data-menu-submenu-hook=""  style="color:#ffffff;font-weight:600;" data-menu-item-number="2">Minecraft Dungeon</a>
+                                        </li>
+                                                                                              </ul>
+              </div>
+			  		</div>
+
+          </div>
+</div>
+
+
+
+<style>
+@media screen and (max-width: 980px) {
+  #rec370745313 .t454__leftcontainer{
+    padding: 20px;
+  }
+}
+@media screen and (max-width: 980px) {
+  #rec370745313 .t454__imglogo{
+    padding: 20px 0;
+  }
+}
+</style>
+
+
+<script>
+
+
+
+$(window).resize(function() {
+    t454_setBg('370745313');
+});
+$(document).ready(function() {
+    t454_setBg('370745313');
+});
+
+
+
+
+</script>
+
+
+
+<style>
+#rec370745313 .t-menu__link-item{
+		}
+
+
+
+
+
+
+@supports (overflow:-webkit-marquee) and (justify-content:inherit)
+{
+  #rec370745313 .t-menu__link-item,
+  #rec370745313 .t-menu__link-item.t-active {
+    opacity: 1 !important;
+  }
+}
+</style>
+<div class="t-menusub__container">
+</div>
+
+
+
+<style>
+
+
+
+@media screen and (max-width: 980px) {
+    #rec370745313 .t-menusub__menu .t-menusub__link-item {
+        color:#ffffff !important;
+    }
+
+    #rec370745313 .t-menusub__menu .t-menusub__link-item.t-active {
+        color:#ffffff !important;
+    }
+}
+
+
+
+</style>
+<!--[if IE 8]>
+<style>
+#rec370745313 .t454 {
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', endColorstr='#D9000000');
+}
+</style>
+<![endif]-->
+
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("370745313","454");
+				addEditFieldEvents_new("370745313");
+				addEditOnReady("370745313");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record360379279" recordid="360379279" off="n" data-record-type="18" data-record-category="1" data-record-cod="CR01" >
+
+		
+	<div id="rec360379279" class="r" style=" " data-animationappear="off" >
+
+		<!-- cover -->
+	
+
+
+
+	
+    <script type="text/javascript">
+        $(document).ready(function(){
+    		cover_init(360379279);
+        });
+    </script>
+    
+
+<div class="t-cover" id="recorddiv360379279" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " data-tu-noclick="yes">
+
+	<div class="t-cover__carrier" id="coverCarry360379279" data-content-cover-id="360379279"  data-content-cover-bg="https://static.tildacdn.com/tild3834-3934-4234-b061-623430616539/_.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('https://static.tildacdn.com/tild3834-3934-4234-b061-623430616539/_.jpg');height:100vh; "></div>
+
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#4c000000', endColorstr='#4c000000');"></div>
+
+
+	<div class="t-container">
+        <div class="t-col t-col_12 ">
+			<div class="t-cover__wrapper t-valign_middle" style="height:100vh;">
+                <div class="t001 t-align_center">
+                  <div class="t001__wrapper" data-hook-content="covercontent">
+                    <div class="t001__uptitle t-uptitle t-uptitle_sm" style="text-transform:uppercase;" field="subtitle">маинкрафт</div>                    <div class="t001__title t-title t-title_xl" style="" field="title">самая продаваемая игра</div>                                        <span class="space"></span>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- arrow -->
+  <div class="t-cover__arrow"><div class="t-cover__arrow-wrapper t-cover__arrow-wrapper_animated"><div class="t-cover__arrow_mobile"><svg class="t-cover__arrow-svg" style="fill:#ffffff;" x="0px" y="0px" width="38.417px" height="18.592px" viewBox="0 0 38.417 18.592" style="enable-background:new 0 0 38.417 18.592;"><g><path d="M19.208,18.592c-0.241,0-0.483-0.087-0.673-0.261L0.327,1.74c-0.408-0.372-0.438-1.004-0.066-1.413c0.372-0.409,1.004-0.439,1.413-0.066L19.208,16.24L36.743,0.261c0.411-0.372,1.042-0.342,1.413,0.066c0.372,0.408,0.343,1.041-0.065,1.413L19.881,18.332C19.691,18.505,19.449,18.592,19.208,18.592z"/></g></svg></div></div></div>
+  <!-- arrow -->
+  
+
+</div>
+    
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("360379279","18");
+				addEditFieldEvents_new("360379279");
+				addEditOnReady("360379279");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record360380762" recordid="360380762" off="" data-record-type="106" data-record-category="2" data-record-cod="TX01" >
+
+		
+	<div id="rec360380762" class="r" style="padding-top:60px;padding-bottom:60px; "  >
+
+		<!-- T004 -->
+<div class="t004">
+	<div class="t-container ">
+	  	<div class="t-col t-col_8 t-prefix_2">
+			<div field="text" class="t-text t-text_md  " style="">она стала самой продаваемой игрой в 2020 году</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("360380762","106");
+				addEditFieldEvents_new("360380762");
+				addEditOnReady("360380762");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record360382075" recordid="360382075" off="" data-record-type="3" data-record-category="10" data-record-cod="IM01" >
+
+		
+	<div id="rec360382075" class="r" style="padding-top:75px;padding-bottom:0px; "  >
+
+		<!-- T107 -->
+<div class="t107">
+  <div class="t-align_center" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3966-3437-4938-b137-333464393038/a401cb17369a38d2fd97.jpg">    <img src="https://static.tildacdn.com/tild3966-3437-4938-b137-333464393038/a401cb17369a38d2fd97.jpg"  class="t107__widthauto t-img" imgfield="img"  />               
+  </div>  
+</div>
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("360382075","3");
+				addEditFieldEvents_new("360382075");
+				addEditOnReady("360382075");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record360382327" recordid="360382327" off="" data-record-type="106" data-record-category="2" data-record-cod="TX01" >
+
+		
+	<div id="rec360382327" class="r" style="padding-top:60px;padding-bottom:15px; "  >
+
+		<!-- T004 -->
+<div class="t004">
+	<div class="t-container ">
+	  	<div class="t-col t-col_8 t-prefix_2">
+			<div field="text" class="t-text t-text_md  " style="">в в неё играют 140 миллионов  игроков</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("360382327","106");
+				addEditFieldEvents_new("360382327");
+				addEditOnReady("360382327");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record360390375" recordid="360390375" off="" data-record-type="670" data-record-category="21" data-record-cod="GL01" >
+
+		
+	<div id="rec360390375" class="r" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" >
+
+		
+
+
+<div class="t670">
+  <div class="t-slds" style="visibility: hidden;">
+    <div class="t-container t-slds__main">
+      <div class="t-slds__container t-width t-width_9 t-margin_auto">
+        
+        <div class="t-slds__items-wrapper t-slds_animated-none t-slds__witharrows" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" data-slider-arrows-nearpic="yes"  data-slider-is-preview="true">
+                      <div class="t-slds__item  t-slds__item_active" data-slide-index="1">
+              <div class="t-width t-width_9 t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
+                <div class="t-slds__wrapper t-align_center">
+                  <meta itemprop="image" content="https://static.tildacdn.com/tild3334-3164-4265-a139-666436346630/images_1.jpg">                                                            <div class="t670__imgwrapper"  bgimgfield="gi_img__0">
+                        <div class="t-slds__bgimg  t-bgimg" data-original="https://static.tildacdn.com/tild3334-3164-4265-a139-666436346630/images_1.jpg"  style="background-image: url('https://static.tildacdn.com/tild3334-3164-4265-a139-666436346630/images_1.jpg');"></div>
+                        <div class="t670__separator" data-slider-image-width="860" data-slider-image-height="550"></div>                      </div>
+                                                                          </div>
+              </div>
+            </div>
+          
+                      <div class="t-slds__item  " data-slide-index="2">
+              <div class="t-width t-width_9 t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
+                <div class="t-slds__wrapper t-align_center">
+                  <meta itemprop="image" content="https://static.tildacdn.com/tild3366-3435-4437-b433-343539666634/images.jpg">                                                            <div class="t670__imgwrapper"  bgimgfield="gi_img__1">
+                        <div class="t-slds__bgimg  t-bgimg" data-original="https://static.tildacdn.com/tild3366-3435-4437-b433-343539666634/images.jpg"  style="background-image: url('https://static.tildacdn.com/tild3366-3435-4437-b433-343539666634/images.jpg');"></div>
+                        <div class="t670__separator" data-slider-image-width="860" data-slider-image-height="550"></div>                      </div>
+                                                                          </div>
+              </div>
+            </div>
+          
+                      <div class="t-slds__item  " data-slide-index="3">
+              <div class="t-width t-width_9 t-margin_auto" itemscope itemtype="http://schema.org/ImageObject">
+                <div class="t-slds__wrapper t-align_center">
+                  <meta itemprop="image" content="https://static.tildacdn.com/tild3731-3933-4438-b439-643130356537/__3.jpg">                                                            <div class="t670__imgwrapper"  bgimgfield="gi_img__2">
+                        <div class="t-slds__bgimg  t-bgimg" data-original="https://static.tildacdn.com/tild3731-3933-4438-b439-643130356537/__3.jpg"  style="background-image: url('https://static.tildacdn.com/tild3731-3933-4438-b439-643130356537/__3.jpg');"></div>
+                        <div class="t670__separator" data-slider-image-width="860" data-slider-image-height="550"></div>                      </div>
+                                                                          </div>
+              </div>
+            </div>
+          
+                  </div>
+                      </div>
+              <div class="t-slds__arrow_container t-slds__arrow_container-outside">
+                  
+
+
+<div class="t-slds__arrow_wrapper t-slds__arrow_wrapper-left" data-slide-direction="left">
+  <div class="t-slds__arrow t-slds__arrow-left t-slds__arrow-withbg" style="width: 40px; height: 40px;background-color: rgba(232,232,232,1);">
+    <div class="t-slds__arrow_body t-slds__arrow_body-left" style="width: 9px;">
+      <svg style="display: block" viewBox="0 0 9.3 17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <desc>Left</desc>
+        <polyline
+        fill="none" 
+        stroke="#000000"
+        stroke-linejoin="butt" 
+        stroke-linecap="butt"
+        stroke-width="1" 
+        points="0.5,0.5 8.5,8.5 0.5,16.5" 
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+<div class="t-slds__arrow_wrapper t-slds__arrow_wrapper-right" data-slide-direction="right">
+  <div class="t-slds__arrow t-slds__arrow-right t-slds__arrow-withbg" style="width: 40px; height: 40px;background-color: rgba(232,232,232,1);">
+    <div class="t-slds__arrow_body t-slds__arrow_body-right" style="width: 9px;">
+      <svg style="display: block" viewBox="0 0 9.3 17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <desc>Right</desc>
+        <polyline
+        fill="none" 
+        stroke="#000000"
+        stroke-linejoin="butt" 
+        stroke-linecap="butt"
+        stroke-width="1" 
+        points="0.5,0.5 8.5,8.5 0.5,16.5" 
+        />
+      </svg>
+    </div>
+  </div>
+</div>        </div>
+                    <div class="t-slds__bullet_wrapper">
+                                                    <div class="t-slds__bullet t-slds__bullet_active" data-slide-bullet-for="1">
+              <div class="t-slds__bullet_body" style="background-color: #c7c7c7;"></div>
+            </div>
+                                          <div class="t-slds__bullet " data-slide-bullet-for="2">
+              <div class="t-slds__bullet_body" style="background-color: #c7c7c7;"></div>
+            </div>
+                                          <div class="t-slds__bullet " data-slide-bullet-for="3">
+              <div class="t-slds__bullet_body" style="background-color: #c7c7c7;"></div>
+            </div>
+                            </div>
+            <div class="t-slds__caption__container">
+                                                      </div>
+    </div>
+    
+  </div>
+</div>
+
+
+<script>
+  $(document).ready(function() {
+    setTimeout(function() {
+        t670_init('360390375');
+        t_onFuncLoad('t_sldsInit', function() {
+            t_sldsInit('360390375');
+        });
+                  t_slds_UpdateSliderHeight('360390375');
+          t_slds_UpdateSliderArrowsHeight('360390375');
+            }, 500);
+  }); 
+  $('.t670').bind('displayChanged',function(){
+    t_onFuncLoad('t_slds_updateSlider', function() {
+        t_slds_updateSlider('360390375');
+    });
+    t_onFuncLoad('t_slds_positionArrows', function() {
+        t_slds_positionArrows('360390375');
+    });
+  });  
+</script>
+
+
+
+<style>
+  #rec360390375 .t-slds__bullet_active .t-slds__bullet_body {
+    background-color: #222 !important;
+  }
+  
+  #rec360390375 .t-slds__bullet:hover .t-slds__bullet_body {
+    background-color: #222 !important;
+  }
+</style>
+
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("360390375","670");
+				addEditFieldEvents_new("360390375");
+				addEditOnReady("360390375");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record360392029" recordid="360392029" off="" data-record-type="106" data-record-category="2" data-record-cod="TX01" >
+
+		
+	<div id="rec360392029" class="r" style="padding-top:45px;padding-bottom:0px; "  >
+
+		<!-- T004 -->
+<div class="t004">
+	<div class="t-container ">
+	  	<div class="t-col t-col_8 t-prefix_2">
+			<div field="text" class="t-text t-text_md  " style="">есть 3 вида маинкрафта <br /><br /></div>
+		</div>
+	</div>
+</div>
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("360392029","106");
+				addEditFieldEvents_new("360392029");
+				addEditOnReady("360392029");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record368148720" recordid="368148720" off="" data-record-type="145" data-record-category="17" data-record-cod="ME101" >
+
+		
+	<div id="rec368148720" class="r" style=" "  >
+
+		<!-- T135 -->
+<div class="t135">
+    <a href="/">
+        <img src="https://static.tildacdn.com/tild3735-6363-4038-b761-663336346166/Group_9.png" imgfield="img" class="t135__img" >
+    </a></div>
+
+
+<style>
+#rec368148720 .t135 {
+    position: relative;
+    padding: 20px;
+    text-align: left;
+}
+
+@media screen and (max-width: 640px) {
+    #rec368148720 .t135 {
+        position: relative !important;
+        text-align: center;
+        padding: 30px;
+        top: 0px !important;
+        right: 0px !important;
+        left: 0px !important;
+        z-index: 1 !important;
+    }
+}
+</style>
+
+
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("368148720","145");
+				addEditFieldEvents_new("368148720");
+				addEditOnReady("368148720");
+												
+		});
+	</script>
+	
+
+</div>
+
+
+<div class="record" id="record381945418" recordid="381945418" off="" data-record-type="557" data-record-category="12" data-record-cod="NY130" >
+
+		
+	<div id="rec381945418" class="r" style=" "  >
+
+		<!-- T557 -->
+
+
+<div class="t557__snow-redactor t-descr t-descr_xxs">
+<svg role="img" class="t557__snow-flake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><path d="M64.2 31h-21L58 16.1c1.4-1.4 1.4-3.6 0-5s-3.6-1.4-5 0L38.2 26V5c0-1.9-1.6-3.5-3.5-3.5S31.2 3.1 31.2 5v21L16.3 11.2c-1.4-1.4-3.6-1.4-5 0s-1.4 3.6 0 5l15 14.8h-21c-1.9 0-3.5 1.6-3.5 3.5S3.3 38 5.2 38h21L11.4 52.9c-1.4 1.4-1.4 3.6 0 5 .7.7 1.6 1 2.5 1s1.8-.3 2.5-1L31.2 43v21c0 1.9 1.6 3.5 3.5 3.5s3.5-1.6 3.5-3.5V43l14.9 14.9c.7.7 1.6 1 2.5 1 .9 0 1.8-.3 2.5-1 1.4-1.4 1.4-3.6 0-5L43.2 38h21.1c1.9 0 3.5-1.6 3.5-3.5S66.1 31 64.2 31z"/></svg>  
+<svg role="img" class="t557__snow-flake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><path d="M64.2 31h-21L58 16.1c1.4-1.4 1.4-3.6 0-5s-3.6-1.4-5 0L38.2 26V5c0-1.9-1.6-3.5-3.5-3.5S31.2 3.1 31.2 5v21L16.3 11.2c-1.4-1.4-3.6-1.4-5 0s-1.4 3.6 0 5l15 14.8h-21c-1.9 0-3.5 1.6-3.5 3.5S3.3 38 5.2 38h21L11.4 52.9c-1.4 1.4-1.4 3.6 0 5 .7.7 1.6 1 2.5 1s1.8-.3 2.5-1L31.2 43v21c0 1.9 1.6 3.5 3.5 3.5s3.5-1.6 3.5-3.5V43l14.9 14.9c.7.7 1.6 1 2.5 1 .9 0 1.8-.3 2.5-1 1.4-1.4 1.4-3.6 0-5L43.2 38h21.1c1.9 0 3.5-1.6 3.5-3.5S66.1 31 64.2 31z"/></svg>  
+<svg role="img" class="t557__snow-flake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><path d="M64.2 31h-21L58 16.1c1.4-1.4 1.4-3.6 0-5s-3.6-1.4-5 0L38.2 26V5c0-1.9-1.6-3.5-3.5-3.5S31.2 3.1 31.2 5v21L16.3 11.2c-1.4-1.4-3.6-1.4-5 0s-1.4 3.6 0 5l15 14.8h-21c-1.9 0-3.5 1.6-3.5 3.5S3.3 38 5.2 38h21L11.4 52.9c-1.4 1.4-1.4 3.6 0 5 .7.7 1.6 1 2.5 1s1.8-.3 2.5-1L31.2 43v21c0 1.9 1.6 3.5 3.5 3.5s3.5-1.6 3.5-3.5V43l14.9 14.9c.7.7 1.6 1 2.5 1 .9 0 1.8-.3 2.5-1 1.4-1.4 1.4-3.6 0-5L43.2 38h21.1c1.9 0 3.5-1.6 3.5-3.5S66.1 31 64.2 31z"/></svg>
+<div class="t557__text">
+                Этот блок добавит снег в обложки на опубликованной странице.
+            </div>
+<svg  class="t557__snow-flake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><path d="M64.2 31h-21L58 16.1c1.4-1.4 1.4-3.6 0-5s-3.6-1.4-5 0L38.2 26V5c0-1.9-1.6-3.5-3.5-3.5S31.2 3.1 31.2 5v21L16.3 11.2c-1.4-1.4-3.6-1.4-5 0s-1.4 3.6 0 5l15 14.8h-21c-1.9 0-3.5 1.6-3.5 3.5S3.3 38 5.2 38h21L11.4 52.9c-1.4 1.4-1.4 3.6 0 5 .7.7 1.6 1 2.5 1s1.8-.3 2.5-1L31.2 43v21c0 1.9 1.6 3.5 3.5 3.5s3.5-1.6 3.5-3.5V43l14.9 14.9c.7.7 1.6 1 2.5 1 .9 0 1.8-.3 2.5-1 1.4-1.4 1.4-3.6 0-5L43.2 38h21.1c1.9 0 3.5-1.6 3.5-3.5S66.1 31 64.2 31z"/></svg>
+<svg  class="t557__snow-flake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><path d="M64.2 31h-21L58 16.1c1.4-1.4 1.4-3.6 0-5s-3.6-1.4-5 0L38.2 26V5c0-1.9-1.6-3.5-3.5-3.5S31.2 3.1 31.2 5v21L16.3 11.2c-1.4-1.4-3.6-1.4-5 0s-1.4 3.6 0 5l15 14.8h-21c-1.9 0-3.5 1.6-3.5 3.5S3.3 38 5.2 38h21L11.4 52.9c-1.4 1.4-1.4 3.6 0 5 .7.7 1.6 1 2.5 1s1.8-.3 2.5-1L31.2 43v21c0 1.9 1.6 3.5 3.5 3.5s3.5-1.6 3.5-3.5V43l14.9 14.9c.7.7 1.6 1 2.5 1 .9 0 1.8-.3 2.5-1 1.4-1.4 1.4-3.6 0-5L43.2 38h21.1c1.9 0 3.5-1.6 3.5-3.5S66.1 31 64.2 31z"/></svg>
+<svg  class="t557__snow-flake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><path d="M64.2 31h-21L58 16.1c1.4-1.4 1.4-3.6 0-5s-3.6-1.4-5 0L38.2 26V5c0-1.9-1.6-3.5-3.5-3.5S31.2 3.1 31.2 5v21L16.3 11.2c-1.4-1.4-3.6-1.4-5 0s-1.4 3.6 0 5l15 14.8h-21c-1.9 0-3.5 1.6-3.5 3.5S3.3 38 5.2 38h21L11.4 52.9c-1.4 1.4-1.4 3.6 0 5 .7.7 1.6 1 2.5 1s1.8-.3 2.5-1L31.2 43v21c0 1.9 1.6 3.5 3.5 3.5s3.5-1.6 3.5-3.5V43l14.9 14.9c.7.7 1.6 1 2.5 1 .9 0 1.8-.3 2.5-1 1.4-1.4 1.4-3.6 0-5L43.2 38h21.1c1.9 0 3.5-1.6 3.5-3.5S66.1 31 64.2 31z"/></svg>  
+</div>
+
+<div class="t557__snow-recid-holder"  data-snow-rec-ids=""></div>
+
+
+
+	</div>
+
+	
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			
+							addEditUi("381945418","557");
+				addEditFieldEvents_new("381945418");
+				addEditOnReady("381945418");
+												
+		});
+	</script>
+	
+
+</div>
+
+</div>
+<!--/allrecords-->
+
+<div id="shortcuttooldiv"></div>
+
+
+<br><br><br>
+
+
+<div class="blocksmap" data-hook="blocks-map"></div>
+
+
+
+
+<script type="text/javascript">
+	var $projectid = 4598894;	
+	var $pageid = 22304794;
+	window.projectid = 4598894;	
+	window.pageid = 22304794;
+	window.tildaprojectid = 4598894;
+	window.projectalias = "minecraft.org";
+	window.pagealias = "";
+	window.pagepublished = "1637942305";
+	window.pageisindex = "y";
+	window.projectcustomdomain = "";
+	window.userwithus = "16321800";
+	window.usercountry = "RU";
+	window.userrole = "";
+
+	$( document ).ready(function() {
+	    closeEditForm();
+		
+				
+		var data = getshortcuttool();
+		$("#shortcuttooldiv").html(data);
+		
+				
+
+		updateUndoButton();
+		sortModeOn();
+
+		
+		
+		
+		
+		
+		
+
+		setTimeout(function() {
+			initLibrary();
+		}, 500);
+
+	});
+
+	$( window ).load(function() {
+			});
+
+	var $uplan = "0";
+	var $oplan = "0";
+	var $opaid = "";
+	var $headlinefont = "Roboto";
+	var $textfont = "Roboto";
+	var $textfontweight = "";
+	var $textfontsize = "";
+	var $typekitid = "";
+	var $is_email = "";
+					var $gf_fonts = "family=Roboto:wght@300;400;500;700&subset=latin,cyrillic";
+		
+	var $lang = "RU";
+
+	//var $types = [];
+	//var $tpls = [];
